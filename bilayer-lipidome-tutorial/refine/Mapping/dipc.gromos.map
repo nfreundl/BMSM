@@ -1,0 +1,84 @@
+;Created by Alex de Vries on 04.08.2015
+[ molecule ]
+DIPC
+
+[ martini ]
+NC3 PO4 GL1 GL2 C1A D2A D3A C4A C1B D2B D3B C4B 
+
+;
+; NC3-PO4-GL1-C1A-D2A-D3A-C4A
+;         |
+;         GL2-C1B-D2B-D3B-C4B
+
+
+[ mapping ]
+gromos
+
+[ atoms ]
+; sn-1 tail  --- ester
+    1   CGS1  GL2
+    2   OGS1  GL2
+    3   CES1  GL2
+    4   OES1  GL2
+    5   C102  C1B
+; sn-1 tail  --- c1b
+    6   C103  C1B
+    7   C104  C1B
+    8   C105  C1B
+    9   C106  C1B
+   10   C107  C1B
+; sn-1 tail  --- d2b
+   11   C108  D2B
+   12   C109  D2B
+   13   C110  D2B
+   14   C111  D2B
+; sn-1 tail  --- d3b
+   15   C112  D3B
+   16   C113  D3B
+   17   C114  D3B
+   18   C115  D3B   C4B
+; sn-1 tail  --- c4b
+   19   C116  C4B
+   20   C117  C4B
+   21   C118  C4B
+; sn-2 tail  --- ester
+   22   CGS2  GL1
+   23   OGS2  GL1
+   24   CES2  GL1
+   25   OES2  GL1
+   26   C202  C1A
+; sn-2 tail  --- c1a
+   27   C203  C1A
+   28   C204  C1A
+   29   C205  C1A
+   30   C206  C1A
+   31   C207  C1A
+; sn-2 tail  --- d2a
+   32   C208  D2A
+   33   C209  D2A
+   34   C210  D2A
+   35   C211  D2A
+; sn-2 tail  --- d3a
+   36   C212  D3A
+   37   C213  D3A
+   38   C214  D3A
+   39   C215  D3A   C4A
+; sn-2 tail  --- c4a
+   40   C216  C4A
+   41   C217  C4A
+   42   C218  C4A
+; Phosphate PO4
+   43   CGS3  GL1  PO4
+   44   OGS3  PO4
+   45   PPC   PO4
+   46   OPC1  PO4
+   47   OPC2  PO4
+   48   OPC3  PO4
+   49   CPC1  PO4 PO4 NC3
+; Terminal head group (choline)
+   50   CPC2  NC3 NC3 PO4
+   51    NPC  NC3 NC3 NC3 PO4
+   52   CPC3  NC3
+   53   CPC4  NC3
+   54   CPC5  NC3
+    

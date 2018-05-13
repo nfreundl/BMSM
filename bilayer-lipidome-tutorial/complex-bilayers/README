@@ -1,0 +1,58 @@
+brief description of steps 
+
+
+1. Build the membrane with insane (get insane.py from website)
+
+$ python insane.py -l DPPC:4 -l DIPC:3 -l CHOL:3 -salt 0.15 -x 15 -y 10 -z 9 -d 0 -pbc cubic -sol W -o dppc-dipc-chol-insane.gro -p info.top
+
+2. Get the lipid files to include and prepare a .top file referring to 
+the include files. The composition of the membrane is in info.top
+
+$ cp info.top dppc-dipc-chol.top
+
+$ [ vi / gedit / other editor ] dppc-dipc-chol.top
+
+3. Get a .mdp file for minimization and run it
+
+$ gmx grompp -p dppc-dipc-chol.top -c dppc-dipc-chol-insane.gro -f minimization.mdp -o min.mdp 
+(add -maxwarn N if required)
+
+$ gmx mdrun -v -deffnm min
+
+4. Get a .mdp file for md simulation, name it relax-1.mdp, and adapt it
+   --- use small time-step, e.g. start with 0.001 ps
+   --- use low number of steps, e.g. 1000
+   --- use berendsen thermostat and barostat
+
+$ gmx grompp -p dppc-dipc-chol.top -c min.gro -f relax-1.mdp -o relax-1.mdp 
+(add -maxwarn N if required)
+
+$ gmx mdrun -v -deffnm relax-1
+
+5. Copy and adapt the relax.mdp file to gradually introduce
+   --- a larger timestep
+   --- semi-isotropic pressure coupling
+   --- temperature coupling groups for water+ion and all lipids
+       the latter requires that you make an index file, e.g.
+
+$ gmx make_ndx -f relax-1.gro
+    > 2 | 3 | 4 
+    > name 7 Lipids
+    > 5 | 6
+    > name 8 Solvent
+    > q
+
+$ mv index.ndx dppc-dipc-chol.ndx
+
+$ gmx grompp -p dppc-dipc-chol.top -c relax-1.gro -f relax-10.mdp -o relax-10.mdp 
+(add -maxwarn N if required)
+
+$ gmx mdrun -v -deffnm relax-10
+
+6. If the system runs stably at 30-40 fs, prepare a .mdp for production. 
+   --- take care to reduce the number of times the conformations are 
+       written to the file system
+   --- if you are not a fan of the berendsen coupling schemes, 
+       use other coupling schemes
+
+

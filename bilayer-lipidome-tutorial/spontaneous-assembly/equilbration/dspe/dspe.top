@@ -1,0 +1,9 @@
+#include "martini_v2.1.itp"
+#include "martini_v2.0_DPPE_01.itp"
+
+[ system ]
+DPPE BILAYER SELF-ASSEMBLY
+
+[ molecules ]
+DPPE 128
+W 768

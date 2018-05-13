@@ -1,0 +1,18 @@
+;Topology for DLIPC
+
+; Include DLIPC forcefield
+#include "ffG53a6.itp"
+
+; Include DLIPC topology
+#include "dlipc.itp"
+
+; Include water topology
+#include "spc.itp"
+
+[ system ]
+; Name
+DLIPC molecule in water
+
+[ molecules ]
+; Compound      #mols
+DLIPC           128
