@@ -1,0 +1,15 @@
+#include "martini.itp"
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>POPC:POPE:CDL2=40.0:34.0:18.0 LowerLeaflet>POPC:POPE:CDL2=40.0:34.0:18.0
+
+[ molecules ]
+; name  number
+POPC           125
+POPE           106
+CDL2            56
+POPC           125
+POPE           106
+CDL2            56
+PW           20688
