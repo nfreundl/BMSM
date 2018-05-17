@@ -1,15 +1,21 @@
 #include "martini.itp"
+#include "Protein_A.itp"
+#include "POPC.itp"
+#include "POPE.itp"
+#include "POPI.itp"
+
 
 [ system ]
 ; name
-INSANE! Membrane UpperLeaflet>POPC:POPE:POPI=50.0:20.0:12.0 LowerLeaflet>POPC:POPE:POPI=50.0:20.0:12.0
+Protein in INSANE! Membrane UpperLeaflet>POPC:POPE:POPI=50.0:20.0:12.0 LowerLeaflet>POPC:POPE:POPI=50.0:20.0:12.0
 
 [ molecules ]
 ; name  number
+Protein_A        1
 POPC           176
 POPE            70
 POPI            42
 POPC           176
 POPE            70
 POPI            42
-PW           20701
+PW           20196
