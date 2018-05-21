@@ -1,5 +1,5 @@
-Log file opened on Thu May 17 21:51:49 2018
-Host: nicolas-VirtualBox  pid: 12420  rank ID: 0  number of ranks:  1
+Log file opened on Fri May 18 11:49:11 2018
+Host: nicolas-VirtualBox  pid: 5946  rank ID: 0  number of ranks:  1
                       :-) GROMACS - gmx mdrun, 2018.1 (-:
 
                             GROMACS is written by:
@@ -31,7 +31,7 @@ Executable:   /usr/bin/gmx
 Data prefix:  /usr
 Working dir:  /home/nicolas/BMSM/project
 Command line:
-  gmx mdrun -deffnm golgi-md -x golgi-md-traj.xtc -v
+  gmx mdrun -deffnm golgi-md -v
 
 GROMACS version:    2018.1
 Precision:          single
@@ -58,32 +58,32 @@ C++ compiler:       /usr/bin/c++ GNU 7.3.0
 C++ compiler flags:  -msse2   -g -O2 -fdebug-prefix-map=/build/gromacs-Fqu8ou/gromacs-2018.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=c++11   -O3 -DNDEBUG -funroll-all-loops -fexcess-precision=fast  
 
 
-Running on 1 node with total 4 cores, 4 logical cores
+Running on 1 node with total 2 cores, 2 logical cores
 Hardware detected:
   CPU info:
     Vendor: Intel
-    Brand:  Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz
-    Family: 6   Model: 60   Stepping: 3
-    Features: aes apic avx avx2 clfsh cmov cx8 cx16 intel lahf mmx msr nonstop_tsc pcid pclmuldq popcnt pse rdrnd rdtscp sse2 sse3 sse4.1 sse4.2 ssse3 x2apic
+    Brand:  Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
+    Family: 6   Model: 58   Stepping: 9
+    Features: aes apic avx clfsh cmov cx8 cx16 intel lahf mmx msr nonstop_tsc pcid pclmuldq popcnt pse rdrnd rdtscp sse2 sse3 sse4.1 sse4.2 ssse3 x2apic
   Hardware topology: Full, with devices
     Sockets, cores, and logical processors:
-      Socket  0: [   0] [   1] [   2] [   3]
+      Socket  0: [   0] [   1]
     Numa nodes:
-      Node  0 (11653349376 bytes mem):   0   1   2   3
+      Node  0 (5340278784 bytes mem):   0   1
       Latency:
                0
          0  1.00
     Caches:
       L1: 32768 bytes, linesize 64 bytes, assoc. 8, shared 1 ways
       L2: 262144 bytes, linesize 64 bytes, assoc. 8, shared 1 ways
-      L3: 8388608 bytes, linesize 64 bytes, assoc. 16, shared 1 ways
+      L3: 3145728 bytes, linesize 64 bytes, assoc. 12, shared 1 ways
     PCI devices:
       0000:00:01.1  Id: 8086:7111  Class: 0x0101  Numa: 0
       0000:00:02.0  Id: 80ee:beef  Class: 0x0300  Numa: 0
       0000:00:03.0  Id: 8086:100e  Class: 0x0200  Numa: 0
       0000:00:0d.0  Id: 8086:2829  Class: 0x0106  Numa: 0
 
-Highest SIMD level requested by all nodes in run: AVX2_256
+Highest SIMD level requested by all nodes in run: AVX_256
 SIMD instructions selected at compile time:       SSE2
 This program was compiled for different hardware than you are running on,
 which could influence performance.
@@ -150,14 +150,14 @@ Comp. Phys. Comm. 91 (1995) pp. 43-56
 Input Parameters:
    integrator                     = md
    tinit                          = 0
-   dt                             = 0.03
-   nsteps                         = 50000
+   dt                             = 0.01
+   nsteps                         = 5000
    init-step                      = 0
    simulation-part                = 1
    comm-mode                      = Linear
    nstcomm                        = 100
    bd-fric                        = 0
-   ld-seed                        = 1061824155
+   ld-seed                        = 1906822884
    emtol                          = 10
    emstep                         = 0.01
    niter                          = 20
@@ -179,7 +179,7 @@ Input Parameters:
    pbc                            = xyz
    periodic-molecules             = false
    verlet-buffer-tolerance        = 0.005
-   rlist                          = 1.548
+   rlist                          = 1.227
    coulombtype                    = Cut-off
    coulomb-modifier               = Potential-shift
    rcoulomb-switch                = 0
@@ -316,9 +316,11 @@ annealing-npoints:           0
    nfreeze:           N           N           N
    energygrp-flags[  0]: 0
 
+Changing nstlist from 20 to 25, rlist from 1.227 to 1.27
+
 
 Using 1 MPI thread
-Using 4 OpenMP threads 
+Using 2 OpenMP threads 
 
 Pinning threads with an auto-selected logical core stride of 1
 System total charge: -87.000
@@ -327,11 +329,11 @@ Potential shift: LJ r^-12: -3.186e-01 r^-6: -5.645e-01, Coulomb -9e-01
 Using SIMD 4x4 nonbonded short-range kernels
 
 Using a dual 4x4 pair-list setup updated with dynamic pruning:
-  outer list: updated every 20 steps, buffer 0.448 nm, rlist 1.548 nm
-  inner list: updated every  4 steps, buffer 0.045 nm, rlist 1.145 nm
+  outer list: updated every 25 steps, buffer 0.170 nm, rlist 1.270 nm
+  inner list: updated every  4 steps, buffer 0.009 nm, rlist 1.109 nm
 At tolerance 0.005 kJ/mol/ps per atom, equivalent classical 1x1 list would be:
-  outer list: updated every 20 steps, buffer 0.600 nm, rlist 1.700 nm
-  inner list: updated every  4 steps, buffer 0.077 nm, rlist 1.177 nm
+  outer list: updated every 25 steps, buffer 0.246 nm, rlist 1.346 nm
+  inner list: updated every  4 steps, buffer 0.020 nm, rlist 1.120 nm
 
 Using full Lennard-Jones parameter combination matrix
 
@@ -350,7 +352,7 @@ The number of constraints is 40871
 will apply an additional matrix expansion of order 4 for couplings
 between constraints inside triangles
 
-Intra-simulation communication will occur every 20 steps.
+Intra-simulation communication will occur every 5 steps.
 Center of mass motion removal mode is Linear
 We have the following groups for center of mass motion removal:
   0:  rest
@@ -368,32 +370,17 @@ Constraining the starting coordinates (step 0)
 
 Constraining the coordinates at t0-dt (step 0)
 RMS relative constraint deviation after constraining: 3.84e-06
-Initial temperature: 5.95874e-07 K
+Initial temperature: 5.36283e-06 K
 
-Started mdrun on rank 0 Thu May 17 21:51:49 2018
+Started mdrun on rank 0 Fri May 18 11:49:12 2018
            Step           Time
               0        0.00000
 
    Energies (kJ/mol)
            Bond       G96Angle  Improper Dih.        LJ (SR)   Coulomb (SR)
-    1.64974e+04    1.04036e+04    4.15399e-01   -5.93811e+05   -2.78119e+03
+    1.64974e+04    1.04036e+04    4.15399e-01   -5.93810e+05   -2.78120e+03
       Potential    Kinetic En.   Total Energy  Conserved En.    Temperature
-   -5.69690e+05    3.02667e+02   -5.69388e+05   -5.69194e+05    4.44415e-01
+   -5.69690e+05    3.36255e+01   -5.69657e+05   -5.69463e+05    4.93734e-02
  Pressure (bar)   Constr. rmsd
-   -3.66892e+02    6.58614e-05
+   -3.67651e+02    8.59279e-06
 
-
--------------------------------------------------------
-Program:     gmx mdrun, version 2018.1
-Source file: src/gromacs/mdlib/constr.cpp (line 169)
-
-Fatal error:
-Too many LINCS warnings (1153)
-If you know what you are doing you can adjust the lincs warning threshold in
-your mdp file
-or set the environment variable GMX_MAXCONSTRWARN to -1,
-but normally it is better to fix the problem
-
-For more information and tips for troubleshooting, please check the GROMACS
-website at http://www.gromacs.org/Documentation/Errors
--------------------------------------------------------
