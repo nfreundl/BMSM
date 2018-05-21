@@ -1,0 +1,3734 @@
+[ Bead 1 of residue 1 ]
+3 
+[ Bead 2 of residue 1 ]
+2 4 7 
+[ Bead 1 of residue 2 ]
+6 
+[ Bead 2 of residue 2 ]
+7 10 11 12 
+[ Bead 1 of residue 3 ]
+11 
+[ Bead 2 of residue 3 ]
+12 15 16 17 
+[ Bead 1 of residue 4 ]
+16 
+[ Bead 2 of residue 4 ]
+17 20 21 
+[ Bead 1 of residue 5 ]
+20 
+[ Bead 2 of residue 5 ]
+21 24 25 26 
+[ Bead 1 of residue 6 ]
+25 
+[ Bead 1 of residue 7 ]
+26 
+[ Bead 1 of residue 8 ]
+27 
+[ Bead 2 of residue 8 ]
+28 31 32 
+[ Bead 1 of residue 9 ]
+31 
+[ Bead 2 of residue 9 ]
+32 35 36 
+[ Bead 1 of residue 10 ]
+35 
+[ Bead 2 of residue 10 ]
+36 39 
+[ Bead 1 of residue 11 ]
+38 
+[ Bead 1 of residue 12 ]
+39 
+[ Bead 1 of residue 13 ]
+40 
+[ Bead 2 of residue 13 ]
+41 44 45 46 47 
+[ Bead 1 of residue 14 ]
+46 
+[ Bead 2 of residue 14 ]
+47 50 51 
+[ Bead 3 of residue 14 ]
+52 53 54 55 
+[ Bead 1 of residue 15 ]
+54 
+[ Bead 2 of residue 15 ]
+55 58 59 60 61 
+[ Bead 1 of residue 16 ]
+60 
+[ Bead 2 of residue 16 ]
+61 64 65 
+[ Bead 1 of residue 17 ]
+64 
+[ Bead 1 of residue 18 ]
+65 
+[ Bead 1 of residue 19 ]
+66 
+[ Bead 2 of residue 19 ]
+67 70 71 
+[ Bead 1 of residue 20 ]
+70 
+[ Bead 2 of residue 20 ]
+71 74 75 76 
+[ Bead 1 of residue 21 ]
+75 
+[ Bead 2 of residue 21 ]
+76 79 80 
+[ Bead 3 of residue 21 ]
+81 83 
+[ Bead 4 of residue 21 ]
+82 84 
+[ Bead 1 of residue 22 ]
+83 
+[ Bead 2 of residue 22 ]
+84 87 88 89 
+[ Bead 1 of residue 23 ]
+88 
+[ Bead 2 of residue 23 ]
+89 92 
+[ Bead 3 of residue 23 ]
+94 96 
+[ Bead 4 of residue 23 ]
+93 95 
+[ Bead 1 of residue 24 ]
+95 
+[ Bead 1 of residue 25 ]
+96 
+[ Bead 2 of residue 25 ]
+97 100 101 102 
+[ Bead 1 of residue 26 ]
+101 
+[ Bead 1 of residue 27 ]
+102 
+[ Bead 2 of residue 27 ]
+103 106 107 108 
+[ Bead 1 of residue 28 ]
+107 
+[ Bead 2 of residue 28 ]
+108 111 112 
+[ Bead 1 of residue 29 ]
+111 
+[ Bead 1 of residue 30 ]
+112 
+[ Bead 2 of residue 30 ]
+113 116 
+[ Bead 3 of residue 30 ]
+118 120 
+[ Bead 4 of residue 30 ]
+117 119 
+[ Bead 1 of residue 31 ]
+119 
+[ Bead 2 of residue 31 ]
+120 123 
+[ Bead 1 of residue 32 ]
+122 
+[ Bead 2 of residue 32 ]
+123 126 128 
+[ Bead 3 of residue 32 ]
+127 129 130 
+[ Bead 4 of residue 32 ]
+131 133 
+[ Bead 5 of residue 32 ]
+132 134 
+[ Bead 1 of residue 33 ]
+133 
+[ Bead 1 of residue 34 ]
+134 
+[ Bead 2 of residue 34 ]
+135 138 139 140 
+[ Bead 1 of residue 35 ]
+139 
+[ Bead 1 of residue 36 ]
+140 
+[ Bead 2 of residue 36 ]
+141 144 145 146 
+[ Bead 1 of residue 37 ]
+145 
+[ Bead 2 of residue 37 ]
+146 149 
+[ Bead 1 of residue 38 ]
+148 
+[ Bead 2 of residue 38 ]
+149 152 153 
+[ Bead 1 of residue 39 ]
+152 
+[ Bead 2 of residue 39 ]
+153 156 157 158 
+[ Bead 1 of residue 40 ]
+157 
+[ Bead 2 of residue 40 ]
+158 161 162 
+[ Bead 3 of residue 40 ]
+163 164 165 166 
+[ Bead 1 of residue 41 ]
+165 
+[ Bead 2 of residue 41 ]
+166 169 170 171 
+[ Bead 1 of residue 42 ]
+171 
+[ Bead 2 of residue 42 ]
+170 172 175 
+[ Bead 1 of residue 43 ]
+174 
+[ Bead 2 of residue 43 ]
+175 178 
+[ Bead 3 of residue 43 ]
+180 182 
+[ Bead 4 of residue 43 ]
+179 181 
+[ Bead 1 of residue 44 ]
+181 
+[ Bead 2 of residue 44 ]
+182 185 186 
+[ Bead 1 of residue 45 ]
+185 
+[ Bead 2 of residue 45 ]
+186 189 190 
+[ Bead 3 of residue 45 ]
+191 192 
+[ Bead 1 of residue 46 ]
+191 
+[ Bead 2 of residue 46 ]
+192 195 196 
+[ Bead 3 of residue 46 ]
+197 199 
+[ Bead 4 of residue 46 ]
+198 200 201 
+[ Bead 1 of residue 47 ]
+200 
+[ Bead 2 of residue 47 ]
+201 204 205 206 
+[ Bead 1 of residue 48 ]
+205 
+[ Bead 2 of residue 48 ]
+206 209 
+[ Bead 1 of residue 49 ]
+209 
+[ Bead 2 of residue 49 ]
+208 210 213 
+[ Bead 1 of residue 50 ]
+212 
+[ Bead 2 of residue 50 ]
+213 216 
+[ Bead 3 of residue 50 ]
+218 220 
+[ Bead 4 of residue 50 ]
+217 219 
+[ Bead 1 of residue 51 ]
+219 
+[ Bead 1 of residue 52 ]
+221 
+[ Bead 2 of residue 52 ]
+220 222 225 
+[ Bead 1 of residue 53 ]
+224 
+[ Bead 2 of residue 53 ]
+225 228 229 
+[ Bead 3 of residue 53 ]
+230 231 232 233 
+[ Bead 1 of residue 54 ]
+232 
+[ Bead 2 of residue 54 ]
+233 236 237 238 
+[ Bead 1 of residue 55 ]
+238 
+[ Bead 2 of residue 55 ]
+237 239 242 
+[ Bead 1 of residue 56 ]
+241 
+[ Bead 2 of residue 56 ]
+242 245 246 
+[ Bead 1 of residue 57 ]
+245 
+[ Bead 2 of residue 57 ]
+246 249 250 
+[ Bead 1 of residue 58 ]
+249 
+[ Bead 2 of residue 58 ]
+250 253 254 255 
+[ Bead 1 of residue 59 ]
+254 
+[ Bead 2 of residue 59 ]
+255 258 259 260 
+[ Bead 1 of residue 60 ]
+259 
+[ Bead 2 of residue 60 ]
+260 263 264 265 
+[ Bead 1 of residue 61 ]
+264 
+[ Bead 2 of residue 61 ]
+265 268 269 
+[ Bead 3 of residue 61 ]
+270 271 
+[ Bead 1 of residue 62 ]
+270 
+[ Bead 2 of residue 62 ]
+271 274 275 276 
+[ Bead 1 of residue 63 ]
+275 
+[ Bead 2 of residue 63 ]
+276 279 280 
+[ Bead 1 of residue 64 ]
+279 
+[ Bead 2 of residue 64 ]
+280 283 284 285 
+[ Bead 1 of residue 65 ]
+285 
+[ Bead 2 of residue 65 ]
+284 286 289 
+[ Bead 1 of residue 66 ]
+288 
+[ Bead 2 of residue 66 ]
+289 292 
+[ Bead 1 of residue 67 ]
+291 
+[ Bead 2 of residue 67 ]
+292 295 297 
+[ Bead 3 of residue 67 ]
+296 298 299 
+[ Bead 4 of residue 67 ]
+300 302 
+[ Bead 5 of residue 67 ]
+301 303 
+[ Bead 1 of residue 68 ]
+302 
+[ Bead 2 of residue 68 ]
+303 306 307 
+[ Bead 3 of residue 68 ]
+308 310 
+[ Bead 4 of residue 68 ]
+309 311 
+[ Bead 1 of residue 69 ]
+310 
+[ Bead 2 of residue 69 ]
+311 314 315 316 
+[ Bead 1 of residue 70 ]
+315 
+[ Bead 2 of residue 70 ]
+316 319 320 321 
+[ Bead 1 of residue 71 ]
+320 
+[ Bead 2 of residue 71 ]
+321 324 325 326 
+[ Bead 1 of residue 72 ]
+325 
+[ Bead 1 of residue 73 ]
+326 
+[ Bead 2 of residue 73 ]
+327 330 331 332 
+[ Bead 1 of residue 74 ]
+331 
+[ Bead 2 of residue 74 ]
+332 335 
+[ Bead 1 of residue 75 ]
+335 
+[ Bead 2 of residue 75 ]
+334 336 339 
+[ Bead 1 of residue 76 ]
+338 
+[ Bead 2 of residue 76 ]
+339 342 343 344 
+[ Bead 1 of residue 77 ]
+343 
+[ Bead 1 of residue 78 ]
+345 
+[ Bead 2 of residue 78 ]
+344 346 349 
+[ Bead 1 of residue 79 ]
+348 
+[ Bead 2 of residue 79 ]
+349 352 353 354 355 
+[ Bead 1 of residue 80 ]
+354 
+[ Bead 2 of residue 80 ]
+355 358 359 360 
+[ Bead 1 of residue 81 ]
+359 
+[ Bead 2 of residue 81 ]
+360 363 364 365 366 
+[ Bead 1 of residue 82 ]
+365 
+[ Bead 1 of residue 83 ]
+366 
+[ Bead 1 of residue 84 ]
+367 
+[ Bead 2 of residue 84 ]
+368 371 372 373 
+[ Bead 1 of residue 85 ]
+372 
+[ Bead 2 of residue 85 ]
+373 376 377 
+[ Bead 3 of residue 85 ]
+378 379 
+[ Bead 1 of residue 86 ]
+378 
+[ Bead 2 of residue 86 ]
+379 382 383 
+[ Bead 3 of residue 86 ]
+384 385 
+[ Bead 1 of residue 87 ]
+384 
+[ Bead 1 of residue 88 ]
+385 
+[ Bead 1 of residue 89 ]
+386 
+[ Bead 2 of residue 89 ]
+387 390 391 392 393 
+[ Bead 1 of residue 90 ]
+392 
+[ Bead 2 of residue 90 ]
+393 396 397 398 
+[ Bead 1 of residue 91 ]
+397 
+[ Bead 2 of residue 91 ]
+398 401 402 403 
+[ Bead 1 of residue 92 ]
+402 
+[ Bead 2 of residue 92 ]
+403 406 407 
+[ Bead 3 of residue 92 ]
+408 409 
+[ Bead 1 of residue 93 ]
+408 
+[ Bead 1 of residue 94 ]
+409 
+[ Bead 2 of residue 94 ]
+410 413 414 415 
+[ Bead 1 of residue 95 ]
+414 
+[ Bead 2 of residue 95 ]
+415 418 419 420 
+[ Bead 1 of residue 96 ]
+419 
+[ Bead 2 of residue 96 ]
+420 423 424 425 426 
+[ Bead 1 of residue 97 ]
+425 
+[ Bead 2 of residue 97 ]
+426 429 
+[ Bead 3 of residue 97 ]
+431 433 
+[ Bead 4 of residue 97 ]
+430 432 
+[ Bead 1 of residue 98 ]
+432 
+[ Bead 2 of residue 98 ]
+433 436 437 438 439 
+[ Bead 1 of residue 99 ]
+438 
+[ Bead 2 of residue 99 ]
+439 442 443 444 
+[ Bead 1 of residue 100 ]
+443 
+[ Bead 2 of residue 100 ]
+444 447 448 
+[ Bead 3 of residue 100 ]
+449 450 
+[ Bead 1 of residue 101 ]
+449 
+[ Bead 2 of residue 101 ]
+450 453 454 455 
+[ Bead 1 of residue 102 ]
+454 
+[ Bead 1 of residue 103 ]
+455 
+[ Bead 2 of residue 103 ]
+456 459 460 461 
+[ Bead 1 of residue 104 ]
+461 
+[ Bead 2 of residue 104 ]
+460 462 465 
+[ Bead 1 of residue 105 ]
+464 
+[ Bead 1 of residue 106 ]
+465 
+[ Bead 2 of residue 106 ]
+466 469 470 471 
+[ Bead 1 of residue 107 ]
+470 
+[ Bead 2 of residue 107 ]
+471 474 475 
+[ Bead 3 of residue 107 ]
+476 477 478 479 
+[ Bead 1 of residue 108 ]
+478 
+[ Bead 2 of residue 108 ]
+479 482 483 484 
+[ Bead 1 of residue 109 ]
+483 
+[ Bead 2 of residue 109 ]
+484 487 488 
+[ Bead 1 of residue 110 ]
+487 
+[ Bead 2 of residue 110 ]
+488 491 492 493 
+[ Bead 1 of residue 111 ]
+492 
+[ Bead 1 of residue 112 ]
+493 
+[ Bead 1 of residue 113 ]
+494 
+[ Bead 2 of residue 113 ]
+495 498 499 
+[ Bead 3 of residue 113 ]
+500 502 
+[ Bead 4 of residue 113 ]
+501 503 
+[ Bead 1 of residue 114 ]
+502 
+[ Bead 2 of residue 114 ]
+503 506 
+[ Bead 1 of residue 115 ]
+505 
+[ Bead 2 of residue 115 ]
+506 509 510 511 512 
+[ Bead 1 of residue 116 ]
+511 
+[ Bead 1 of residue 117 ]
+512 
+[ Bead 1 of residue 118 ]
+513 
+[ Bead 1 of residue 119 ]
+514 
+[ Bead 2 of residue 119 ]
+515 518 519 520 
+[ Bead 1 of residue 120 ]
+519 
+[ Bead 2 of residue 120 ]
+520 523 
+[ Bead 1 of residue 121 ]
+522 
+[ Bead 2 of residue 121 ]
+523 526 527 528 
+[ Bead 1 of residue 122 ]
+527 
+[ Bead 2 of residue 122 ]
+528 531 532 
+[ Bead 3 of residue 122 ]
+533 535 
+[ Bead 4 of residue 122 ]
+534 536 537 
+[ Bead 1 of residue 123 ]
+536 
+[ Bead 2 of residue 123 ]
+537 540 541 
+[ Bead 1 of residue 124 ]
+540 
+[ Bead 1 of residue 125 ]
+541 
+[ Bead 2 of residue 125 ]
+542 545 546 547 
+[ Bead 1 of residue 126 ]
+546 
+[ Bead 2 of residue 126 ]
+547 550 551 
+[ Bead 1 of residue 127 ]
+550 
+[ Bead 2 of residue 127 ]
+551 554 
+[ Bead 1 of residue 128 ]
+554 
+[ Bead 2 of residue 128 ]
+553 555 558 
+[ Bead 1 of residue 129 ]
+557 
+[ Bead 2 of residue 129 ]
+558 561 
+[ Bead 3 of residue 129 ]
+563 565 
+[ Bead 4 of residue 129 ]
+562 564 
+[ Bead 1 of residue 130 ]
+565 
+[ Bead 2 of residue 130 ]
+564 566 569 
+[ Bead 1 of residue 131 ]
+568 
+[ Bead 2 of residue 131 ]
+569 572 573 574 
+[ Bead 1 of residue 132 ]
+573 
+[ Bead 1 of residue 133 ]
+574 
+[ Bead 1 of residue 134 ]
+575 
+[ Bead 2 of residue 134 ]
+576 579 580 581 
+[ Bead 1 of residue 135 ]
+580 
+[ Bead 2 of residue 135 ]
+581 584 585 
+[ Bead 1 of residue 136 ]
+584 
+[ Bead 1 of residue 137 ]
+585 
+[ Bead 2 of residue 137 ]
+586 589 590 591 
+[ Bead 1 of residue 138 ]
+590 
+[ Bead 2 of residue 138 ]
+591 594 
+[ Bead 1 of residue 139 ]
+593 
+[ Bead 2 of residue 139 ]
+594 597 
+[ Bead 1 of residue 140 ]
+596 
+[ Bead 2 of residue 140 ]
+597 600 602 
+[ Bead 3 of residue 140 ]
+601 603 604 
+[ Bead 4 of residue 140 ]
+605 607 
+[ Bead 5 of residue 140 ]
+606 608 
+[ Bead 1 of residue 141 ]
+607 
+[ Bead 2 of residue 141 ]
+608 611 612 613 
+[ Bead 1 of residue 142 ]
+613 
+[ Bead 2 of residue 142 ]
+612 614 617 
+[ Bead 1 of residue 143 ]
+616 
+[ Bead 2 of residue 143 ]
+617 620 621 622 
+[ Bead 1 of residue 144 ]
+621 
+[ Bead 2 of residue 144 ]
+622 625 
+[ Bead 3 of residue 144 ]
+627 629 
+[ Bead 4 of residue 144 ]
+626 628 
+[ Bead 1 of residue 145 ]
+628 
+[ Bead 2 of residue 145 ]
+629 632 633 
+[ Bead 3 of residue 145 ]
+634 635 636 637 
+[ Bead 1 of residue 146 ]
+636 
+[ Bead 1 of residue 147 ]
+637 
+[ Bead 2 of residue 147 ]
+638 641 642 
+[ Bead 3 of residue 147 ]
+643 645 
+[ Bead 4 of residue 147 ]
+644 646 
+[ Bead 1 of residue 148 ]
+646 
+[ Bead 2 of residue 148 ]
+645 647 650 
+[ Bead 1 of residue 149 ]
+649 
+[ Bead 2 of residue 149 ]
+650 653 654 655 656 
+[ Bead 1 of residue 150 ]
+655 
+[ Bead 1 of residue 151 ]
+656 
+[ Bead 1 of residue 152 ]
+657 
+[ Bead 2 of residue 152 ]
+658 661 662 663 
+[ Bead 1 of residue 153 ]
+662 
+[ Bead 1 of residue 154 ]
+663 
+[ Bead 2 of residue 154 ]
+664 667 
+[ Bead 1 of residue 155 ]
+666 
+[ Bead 1 of residue 156 ]
+667 
+[ Bead 2 of residue 156 ]
+668 671 672 
+[ Bead 3 of residue 156 ]
+673 674 
+[ Bead 1 of residue 157 ]
+673 
+[ Bead 2 of residue 157 ]
+674 677 678 679 
+[ Bead 1 of residue 158 ]
+678 
+[ Bead 2 of residue 158 ]
+679 682 683 684 
+[ Bead 1 of residue 159 ]
+683 
+[ Bead 1 of residue 160 ]
+684 
+[ Bead 2 of residue 160 ]
+685 688 689 690 
+[ Bead 1 of residue 161 ]
+689 
+[ Bead 2 of residue 161 ]
+690 693 694 695 
+[ Bead 1 of residue 162 ]
+694 
+[ Bead 2 of residue 162 ]
+695 698 699 700 701 
+[ Bead 1 of residue 163 ]
+700 
+[ Bead 2 of residue 163 ]
+701 704 
+[ Bead 1 of residue 164 ]
+703 
+[ Bead 2 of residue 164 ]
+704 707 
+[ Bead 3 of residue 164 ]
+709 711 
+[ Bead 4 of residue 164 ]
+708 710 
+[ Bead 1 of residue 165 ]
+710 
+[ Bead 1 of residue 166 ]
+711 
+[ Bead 2 of residue 166 ]
+712 715 716 717 718 
+[ Bead 1 of residue 167 ]
+717 
+[ Bead 2 of residue 167 ]
+718 721 722 723 
+[ Bead 1 of residue 168 ]
+722 
+[ Bead 2 of residue 168 ]
+723 726 727 728 
+[ Bead 1 of residue 169 ]
+728 
+[ Bead 2 of residue 169 ]
+727 729 732 
+[ Bead 1 of residue 170 ]
+731 
+[ Bead 2 of residue 170 ]
+732 735 736 737 
+[ Bead 1 of residue 171 ]
+736 
+[ Bead 2 of residue 171 ]
+737 740 741 
+[ Bead 1 of residue 172 ]
+741 
+[ Bead 2 of residue 172 ]
+740 742 745 
+[ Bead 1 of residue 173 ]
+744 
+[ Bead 2 of residue 173 ]
+745 748 749 
+[ Bead 1 of residue 174 ]
+748 
+[ Bead 2 of residue 174 ]
+749 752 753 
+[ Bead 3 of residue 174 ]
+754 755 756 757 
+[ Bead 1 of residue 175 ]
+756 
+[ Bead 2 of residue 175 ]
+757 760 761 
+[ Bead 3 of residue 175 ]
+762 764 
+[ Bead 4 of residue 175 ]
+763 765 
+[ Bead 1 of residue 176 ]
+764 
+[ Bead 1 of residue 177 ]
+765 
+[ Bead 1 of residue 178 ]
+766 
+[ Bead 2 of residue 178 ]
+767 770 771 772 
+[ Bead 1 of residue 179 ]
+771 
+[ Bead 2 of residue 179 ]
+772 775 776 
+[ Bead 1 of residue 180 ]
+775 
+[ Bead 1 of residue 181 ]
+776 
+[ Bead 2 of residue 181 ]
+777 780 781 782 783 
+[ Bead 1 of residue 182 ]
+782 
+[ Bead 2 of residue 182 ]
+783 786 787 
+[ Bead 3 of residue 182 ]
+788 789 
+[ Bead 1 of residue 183 ]
+788 
+[ Bead 2 of residue 183 ]
+789 792 793 794 
+[ Bead 1 of residue 184 ]
+793 
+[ Bead 2 of residue 184 ]
+794 797 798 
+[ Bead 3 of residue 184 ]
+799 800 801 802 
+[ Bead 1 of residue 185 ]
+801 
+[ Bead 2 of residue 185 ]
+802 805 
+[ Bead 1 of residue 186 ]
+804 
+[ Bead 2 of residue 186 ]
+805 808 809 
+[ Bead 1 of residue 187 ]
+808 
+[ Bead 2 of residue 187 ]
+809 812 813 
+[ Bead 1 of residue 188 ]
+812 
+[ Bead 2 of residue 188 ]
+813 816 817 
+[ Bead 1 of residue 189 ]
+817 
+[ Bead 2 of residue 189 ]
+816 818 821 
+[ Bead 1 of residue 190 ]
+820 
+[ Bead 1 of residue 191 ]
+821 
+[ Bead 2 of residue 191 ]
+822 825 826 
+[ Bead 3 of residue 191 ]
+827 828 829 830 
+[ Bead 1 of residue 192 ]
+829 
+[ Bead 2 of residue 192 ]
+830 833 834 
+[ Bead 1 of residue 193 ]
+833 
+[ Bead 2 of residue 193 ]
+834 837 838 839 840 
+[ Bead 1 of residue 194 ]
+839 
+[ Bead 2 of residue 194 ]
+840 843 844 
+[ Bead 3 of residue 194 ]
+845 847 
+[ Bead 4 of residue 194 ]
+846 848 
+[ Bead 1 of residue 195 ]
+847 
+[ Bead 2 of residue 195 ]
+848 851 852 
+[ Bead 3 of residue 195 ]
+853 854 
+[ Bead 1 of residue 196 ]
+853 
+[ Bead 2 of residue 196 ]
+854 857 858 
+[ Bead 1 of residue 197 ]
+857 
+[ Bead 2 of residue 197 ]
+858 861 862 
+[ Bead 3 of residue 197 ]
+863 865 
+[ Bead 4 of residue 197 ]
+864 866 867 
+[ Bead 1 of residue 198 ]
+867 
+[ Bead 2 of residue 198 ]
+866 868 871 
+[ Bead 1 of residue 199 ]
+870 
+[ Bead 1 of residue 200 ]
+871 
+[ Bead 2 of residue 200 ]
+872 875 876 
+[ Bead 1 of residue 201 ]
+875 
+[ Bead 2 of residue 201 ]
+876 879 880 881 
+[ Bead 1 of residue 202 ]
+880 
+[ Bead 2 of residue 202 ]
+881 884 
+[ Bead 3 of residue 202 ]
+886 888 
+[ Bead 4 of residue 202 ]
+885 887 
+[ Bead 1 of residue 203 ]
+887 
+[ Bead 2 of residue 203 ]
+888 891 
+[ Bead 1 of residue 204 ]
+890 
+[ Bead 2 of residue 204 ]
+891 894 
+[ Bead 1 of residue 205 ]
+893 
+[ Bead 2 of residue 205 ]
+894 897 
+[ Bead 1 of residue 206 ]
+897 
+[ Bead 2 of residue 206 ]
+896 898 901 
+[ Bead 1 of residue 207 ]
+900 
+[ Bead 2 of residue 207 ]
+901 904 905 906 907 
+[ Bead 1 of residue 208 ]
+906 
+[ Bead 2 of residue 208 ]
+907 910 911 912 913 
+[ Bead 1 of residue 209 ]
+912 
+[ Bead 2 of residue 209 ]
+913 916 917 918 
+[ Bead 1 of residue 210 ]
+917 
+[ Bead 1 of residue 211 ]
+918 
+[ Bead 1 of residue 212 ]
+919 
+[ Bead 2 of residue 212 ]
+920 923 924 
+[ Bead 1 of residue 213 ]
+923 
+[ Bead 2 of residue 213 ]
+924 927 928 
+[ Bead 3 of residue 213 ]
+929 930 
+[ Bead 1 of residue 214 ]
+929 
+[ Bead 2 of residue 214 ]
+930 933 934 935 936 
+[ Bead 1 of residue 215 ]
+935 
+[ Bead 2 of residue 215 ]
+936 939 940 
+[ Bead 3 of residue 215 ]
+941 943 
+[ Bead 4 of residue 215 ]
+942 944 
+[ Bead 1 of residue 216 ]
+943 
+[ Bead 2 of residue 216 ]
+944 947 948 949 
+[ Bead 1 of residue 217 ]
+948 
+[ Bead 2 of residue 217 ]
+949 952 953 954 955 
+[ Bead 1 of residue 218 ]
+954 
+[ Bead 2 of residue 218 ]
+955 958 959 
+[ Bead 3 of residue 218 ]
+960 961 
+[ Bead 1 of residue 219 ]
+960 
+[ Bead 2 of residue 219 ]
+961 964 965 966 
+[ Bead 1 of residue 220 ]
+965 
+[ Bead 2 of residue 220 ]
+966 969 970 971 
+[ Bead 1 of residue 221 ]
+971 
+[ Bead 2 of residue 221 ]
+970 972 975 
+[ Bead 1 of residue 222 ]
+975 
+[ Bead 2 of residue 222 ]
+974 976 979 
+[ Bead 1 of residue 223 ]
+978 
+[ Bead 2 of residue 223 ]
+979 982 983 
+[ Bead 1 of residue 224 ]
+983 
+[ Bead 2 of residue 224 ]
+982 984 987 
+[ Bead 1 of residue 225 ]
+986 
+[ Bead 2 of residue 225 ]
+987 990 991 992 
+[ Bead 1 of residue 226 ]
+991 
+[ Bead 2 of residue 226 ]
+992 995 996 997 
+[ Bead 1 of residue 227 ]
+996 
+[ Bead 2 of residue 227 ]
+997 1000 1001 
+[ Bead 1 of residue 228 ]
+1000 
+[ Bead 2 of residue 228 ]
+1001 1004 1005 1006 
+[ Bead 1 of residue 229 ]
+1005 
+[ Bead 1 of residue 230 ]
+1006 
+[ Bead 1 of residue 231 ]
+1007 
+[ Bead 2 of residue 231 ]
+1008 1011 1012 
+[ Bead 1 of residue 232 ]
+1011 
+[ Bead 2 of residue 232 ]
+1012 1015 1016 
+[ Bead 1 of residue 233 ]
+1015 
+[ Bead 2 of residue 233 ]
+1016 1019 
+[ Bead 1 of residue 234 ]
+1018 
+[ Bead 1 of residue 235 ]
+1019 
+[ Bead 1 of residue 236 ]
+1020 
+[ Bead 2 of residue 236 ]
+1021 1024 1025 1026 1027 
+[ Bead 1 of residue 237 ]
+1026 
+[ Bead 2 of residue 237 ]
+1027 1030 1031 
+[ Bead 3 of residue 237 ]
+1032 1033 1034 1035 
+[ Bead 1 of residue 238 ]
+1034 
+[ Bead 2 of residue 238 ]
+1035 1038 1039 1040 1041 
+[ Bead 1 of residue 239 ]
+1040 
+[ Bead 2 of residue 239 ]
+1041 1044 1045 
+[ Bead 1 of residue 240 ]
+1044 
+[ Bead 1 of residue 241 ]
+1045 
+[ Bead 1 of residue 242 ]
+1046 
+[ Bead 2 of residue 242 ]
+1047 1050 1051 
+[ Bead 1 of residue 243 ]
+1050 
+[ Bead 2 of residue 243 ]
+1051 1054 1055 1056 
+[ Bead 1 of residue 244 ]
+1055 
+[ Bead 2 of residue 244 ]
+1056 1059 1060 
+[ Bead 3 of residue 244 ]
+1061 1063 
+[ Bead 4 of residue 244 ]
+1062 1064 
+[ Bead 1 of residue 245 ]
+1063 
+[ Bead 2 of residue 245 ]
+1064 1067 1068 1069 
+[ Bead 1 of residue 246 ]
+1068 
+[ Bead 2 of residue 246 ]
+1069 1072 
+[ Bead 3 of residue 246 ]
+1074 1076 
+[ Bead 4 of residue 246 ]
+1073 1075 
+[ Bead 1 of residue 247 ]
+1075 
+[ Bead 1 of residue 248 ]
+1076 
+[ Bead 2 of residue 248 ]
+1077 1080 1081 1082 
+[ Bead 1 of residue 249 ]
+1081 
+[ Bead 1 of residue 250 ]
+1082 
+[ Bead 2 of residue 250 ]
+1083 1086 1087 1088 
+[ Bead 1 of residue 251 ]
+1087 
+[ Bead 2 of residue 251 ]
+1088 1091 1092 
+[ Bead 1 of residue 252 ]
+1091 
+[ Bead 1 of residue 253 ]
+1092 
+[ Bead 2 of residue 253 ]
+1093 1096 
+[ Bead 3 of residue 253 ]
+1098 1100 
+[ Bead 4 of residue 253 ]
+1097 1099 
+[ Bead 1 of residue 254 ]
+1099 
+[ Bead 2 of residue 254 ]
+1100 1103 
+[ Bead 1 of residue 255 ]
+1102 
+[ Bead 2 of residue 255 ]
+1103 1106 1108 
+[ Bead 3 of residue 255 ]
+1107 1109 1110 
+[ Bead 4 of residue 255 ]
+1111 1113 
+[ Bead 5 of residue 255 ]
+1112 1114 
+[ Bead 1 of residue 256 ]
+1113 
+[ Bead 1 of residue 257 ]
+1114 
+[ Bead 2 of residue 257 ]
+1115 1118 1119 1120 
+[ Bead 1 of residue 258 ]
+1119 
+[ Bead 1 of residue 259 ]
+1120 
+[ Bead 2 of residue 259 ]
+1121 1124 1125 1126 
+[ Bead 1 of residue 260 ]
+1125 
+[ Bead 2 of residue 260 ]
+1126 1129 
+[ Bead 1 of residue 261 ]
+1128 
+[ Bead 2 of residue 261 ]
+1129 1132 1133 
+[ Bead 1 of residue 262 ]
+1132 
+[ Bead 2 of residue 262 ]
+1133 1136 1137 1138 
+[ Bead 1 of residue 263 ]
+1137 
+[ Bead 2 of residue 263 ]
+1138 1141 1142 
+[ Bead 3 of residue 263 ]
+1143 1144 1145 1146 
+[ Bead 1 of residue 264 ]
+1145 
+[ Bead 2 of residue 264 ]
+1146 1149 1150 1151 
+[ Bead 1 of residue 265 ]
+1151 
+[ Bead 2 of residue 265 ]
+1150 1152 1155 
+[ Bead 1 of residue 266 ]
+1154 
+[ Bead 2 of residue 266 ]
+1155 1158 
+[ Bead 3 of residue 266 ]
+1160 1162 
+[ Bead 4 of residue 266 ]
+1159 1161 
+[ Bead 1 of residue 267 ]
+1161 
+[ Bead 2 of residue 267 ]
+1162 1165 1166 
+[ Bead 1 of residue 268 ]
+1165 
+[ Bead 2 of residue 268 ]
+1166 1169 1170 
+[ Bead 3 of residue 268 ]
+1171 1172 
+[ Bead 1 of residue 269 ]
+1171 
+[ Bead 2 of residue 269 ]
+1172 1175 1176 
+[ Bead 3 of residue 269 ]
+1177 1179 
+[ Bead 4 of residue 269 ]
+1178 1180 1181 
+[ Bead 1 of residue 270 ]
+1180 
+[ Bead 2 of residue 270 ]
+1181 1184 1185 1186 
+[ Bead 1 of residue 271 ]
+1185 
+[ Bead 2 of residue 271 ]
+1186 1189 
+[ Bead 1 of residue 272 ]
+1189 
+[ Bead 2 of residue 272 ]
+1188 1190 1193 
+[ Bead 1 of residue 273 ]
+1192 
+[ Bead 2 of residue 273 ]
+1193 1196 
+[ Bead 3 of residue 273 ]
+1198 1200 
+[ Bead 4 of residue 273 ]
+1197 1199 
+[ Bead 1 of residue 274 ]
+1199 
+[ Bead 1 of residue 275 ]
+1201 
+[ Bead 2 of residue 275 ]
+1200 1202 1205 
+[ Bead 1 of residue 276 ]
+1204 
+[ Bead 2 of residue 276 ]
+1205 1208 1209 
+[ Bead 3 of residue 276 ]
+1210 1211 1212 1213 
+[ Bead 1 of residue 277 ]
+1212 
+[ Bead 2 of residue 277 ]
+1213 1216 1217 1218 
+[ Bead 1 of residue 278 ]
+1218 
+[ Bead 2 of residue 278 ]
+1217 1219 1222 
+[ Bead 1 of residue 279 ]
+1221 
+[ Bead 2 of residue 279 ]
+1222 1225 1226 
+[ Bead 1 of residue 280 ]
+1225 
+[ Bead 2 of residue 280 ]
+1226 1229 1230 
+[ Bead 1 of residue 281 ]
+1229 
+[ Bead 2 of residue 281 ]
+1230 1233 1234 1235 
+[ Bead 1 of residue 282 ]
+1234 
+[ Bead 2 of residue 282 ]
+1235 1238 1239 1240 
+[ Bead 1 of residue 283 ]
+1239 
+[ Bead 2 of residue 283 ]
+1240 1243 1244 1245 
+[ Bead 1 of residue 284 ]
+1244 
+[ Bead 2 of residue 284 ]
+1245 1248 1249 
+[ Bead 3 of residue 284 ]
+1250 1251 
+[ Bead 1 of residue 285 ]
+1250 
+[ Bead 2 of residue 285 ]
+1251 1254 1255 1256 
+[ Bead 1 of residue 286 ]
+1255 
+[ Bead 2 of residue 286 ]
+1256 1259 1260 
+[ Bead 1 of residue 287 ]
+1259 
+[ Bead 2 of residue 287 ]
+1260 1263 1264 1265 
+[ Bead 1 of residue 288 ]
+1265 
+[ Bead 2 of residue 288 ]
+1264 1266 1269 
+[ Bead 1 of residue 289 ]
+1268 
+[ Bead 2 of residue 289 ]
+1269 1272 
+[ Bead 1 of residue 290 ]
+1271 
+[ Bead 2 of residue 290 ]
+1272 1275 1277 
+[ Bead 3 of residue 290 ]
+1276 1278 1279 
+[ Bead 4 of residue 290 ]
+1280 1282 
+[ Bead 5 of residue 290 ]
+1281 1283 
+[ Bead 1 of residue 291 ]
+1282 
+[ Bead 2 of residue 291 ]
+1283 1286 1287 
+[ Bead 3 of residue 291 ]
+1288 1290 
+[ Bead 4 of residue 291 ]
+1289 1291 
+[ Bead 1 of residue 292 ]
+1290 
+[ Bead 2 of residue 292 ]
+1291 1294 1295 1296 
+[ Bead 1 of residue 293 ]
+1295 
+[ Bead 2 of residue 293 ]
+1296 1299 1300 1301 
+[ Bead 1 of residue 294 ]
+1300 
+[ Bead 2 of residue 294 ]
+1301 1304 1305 1306 
+[ Bead 1 of residue 295 ]
+1305 
+[ Bead 1 of residue 296 ]
+1306 
+[ Bead 2 of residue 296 ]
+1307 1310 1311 1312 
+[ Bead 1 of residue 297 ]
+1311 
+[ Bead 2 of residue 297 ]
+1312 1315 
+[ Bead 1 of residue 298 ]
+1315 
+[ Bead 2 of residue 298 ]
+1314 1316 1319 
+[ Bead 1 of residue 299 ]
+1318 
+[ Bead 2 of residue 299 ]
+1319 1322 1323 1324 
+[ Bead 1 of residue 300 ]
+1323 
+[ Bead 1 of residue 301 ]
+1325 
+[ Bead 2 of residue 301 ]
+1324 1326 1329 
+[ Bead 1 of residue 302 ]
+1328 
+[ Bead 2 of residue 302 ]
+1329 1332 1333 1334 1335 
+[ Bead 1 of residue 303 ]
+1334 
+[ Bead 2 of residue 303 ]
+1335 1338 1339 1340 
+[ Bead 1 of residue 304 ]
+1339 
+[ Bead 2 of residue 304 ]
+1340 1343 1344 1345 1346 
+[ Bead 1 of residue 305 ]
+1345 
+[ Bead 1 of residue 306 ]
+1346 
+[ Bead 1 of residue 307 ]
+1347 
+[ Bead 2 of residue 307 ]
+1348 1351 1352 1353 
+[ Bead 1 of residue 308 ]
+1352 
+[ Bead 2 of residue 308 ]
+1353 1356 1357 
+[ Bead 3 of residue 308 ]
+1358 1359 
+[ Bead 1 of residue 309 ]
+1358 
+[ Bead 2 of residue 309 ]
+1359 1362 1363 
+[ Bead 3 of residue 309 ]
+1364 1365 
+[ Bead 1 of residue 310 ]
+1364 
+[ Bead 1 of residue 311 ]
+1365 
+[ Bead 1 of residue 312 ]
+1366 
+[ Bead 2 of residue 312 ]
+1367 1370 1371 1372 1373 
+[ Bead 1 of residue 313 ]
+1372 
+[ Bead 2 of residue 313 ]
+1373 1376 1377 1378 
+[ Bead 1 of residue 314 ]
+1377 
+[ Bead 2 of residue 314 ]
+1378 1381 1382 1383 
+[ Bead 1 of residue 315 ]
+1382 
+[ Bead 2 of residue 315 ]
+1383 1386 1387 
+[ Bead 3 of residue 315 ]
+1388 1389 
+[ Bead 1 of residue 316 ]
+1388 
+[ Bead 1 of residue 317 ]
+1389 
+[ Bead 2 of residue 317 ]
+1390 1393 1394 1395 
+[ Bead 1 of residue 318 ]
+1394 
+[ Bead 2 of residue 318 ]
+1395 1398 1399 1400 
+[ Bead 1 of residue 319 ]
+1399 
+[ Bead 2 of residue 319 ]
+1400 1403 1404 1405 1406 
+[ Bead 1 of residue 320 ]
+1405 
+[ Bead 2 of residue 320 ]
+1406 1409 
+[ Bead 3 of residue 320 ]
+1411 1413 
+[ Bead 4 of residue 320 ]
+1410 1412 
+[ Bead 1 of residue 321 ]
+1412 
+[ Bead 2 of residue 321 ]
+1413 1416 1417 1418 1419 
+[ Bead 1 of residue 322 ]
+1418 
+[ Bead 2 of residue 322 ]
+1419 1422 1423 1424 
+[ Bead 1 of residue 323 ]
+1423 
+[ Bead 2 of residue 323 ]
+1424 1427 1428 
+[ Bead 3 of residue 323 ]
+1429 1430 
+[ Bead 1 of residue 324 ]
+1429 
+[ Bead 2 of residue 324 ]
+1430 1433 1434 1435 
+[ Bead 1 of residue 325 ]
+1434 
+[ Bead 1 of residue 326 ]
+1435 
+[ Bead 2 of residue 326 ]
+1436 1439 1440 1441 
+[ Bead 1 of residue 327 ]
+1441 
+[ Bead 2 of residue 327 ]
+1440 1442 1445 
+[ Bead 1 of residue 328 ]
+1444 
+[ Bead 1 of residue 329 ]
+1445 
+[ Bead 2 of residue 329 ]
+1446 1449 1450 1451 
+[ Bead 1 of residue 330 ]
+1450 
+[ Bead 2 of residue 330 ]
+1451 1454 1455 
+[ Bead 3 of residue 330 ]
+1456 1457 1458 1459 
+[ Bead 1 of residue 331 ]
+1458 
+[ Bead 2 of residue 331 ]
+1459 1462 1463 1464 
+[ Bead 1 of residue 332 ]
+1463 
+[ Bead 2 of residue 332 ]
+1464 1467 1468 
+[ Bead 1 of residue 333 ]
+1467 
+[ Bead 2 of residue 333 ]
+1468 1471 1472 1473 
+[ Bead 1 of residue 334 ]
+1472 
+[ Bead 1 of residue 335 ]
+1473 
+[ Bead 1 of residue 336 ]
+1474 
+[ Bead 2 of residue 336 ]
+1475 1478 1479 
+[ Bead 3 of residue 336 ]
+1480 1482 
+[ Bead 4 of residue 336 ]
+1481 1483 
+[ Bead 1 of residue 337 ]
+1482 
+[ Bead 2 of residue 337 ]
+1483 1486 
+[ Bead 1 of residue 338 ]
+1485 
+[ Bead 2 of residue 338 ]
+1486 1489 1490 1491 1492 
+[ Bead 1 of residue 339 ]
+1491 
+[ Bead 1 of residue 340 ]
+1492 
+[ Bead 1 of residue 341 ]
+1493 
+[ Bead 1 of residue 342 ]
+1494 
+[ Bead 2 of residue 342 ]
+1495 1498 1499 1500 
+[ Bead 1 of residue 343 ]
+1499 
+[ Bead 2 of residue 343 ]
+1500 1503 
+[ Bead 1 of residue 344 ]
+1502 
+[ Bead 2 of residue 344 ]
+1503 1506 1507 1508 
+[ Bead 1 of residue 345 ]
+1507 
+[ Bead 2 of residue 345 ]
+1508 1511 1512 
+[ Bead 3 of residue 345 ]
+1513 1515 
+[ Bead 4 of residue 345 ]
+1514 1516 1517 
+[ Bead 1 of residue 346 ]
+1516 
+[ Bead 2 of residue 346 ]
+1517 1520 1521 
+[ Bead 1 of residue 347 ]
+1520 
+[ Bead 1 of residue 348 ]
+1521 
+[ Bead 2 of residue 348 ]
+1522 1525 1526 1527 
+[ Bead 1 of residue 349 ]
+1526 
+[ Bead 2 of residue 349 ]
+1527 1530 1531 
+[ Bead 1 of residue 350 ]
+1530 
+[ Bead 2 of residue 350 ]
+1531 1534 
+[ Bead 1 of residue 351 ]
+1534 
+[ Bead 2 of residue 351 ]
+1533 1535 1538 
+[ Bead 1 of residue 352 ]
+1537 
+[ Bead 2 of residue 352 ]
+1538 1541 
+[ Bead 3 of residue 352 ]
+1543 1545 
+[ Bead 4 of residue 352 ]
+1542 1544 
+[ Bead 1 of residue 353 ]
+1545 
+[ Bead 2 of residue 353 ]
+1544 1546 1549 
+[ Bead 1 of residue 354 ]
+1548 
+[ Bead 2 of residue 354 ]
+1549 1552 1553 1554 
+[ Bead 1 of residue 355 ]
+1553 
+[ Bead 1 of residue 356 ]
+1554 
+[ Bead 1 of residue 357 ]
+1555 
+[ Bead 2 of residue 357 ]
+1556 1559 1560 1561 
+[ Bead 1 of residue 358 ]
+1560 
+[ Bead 2 of residue 358 ]
+1561 1564 1565 
+[ Bead 1 of residue 359 ]
+1564 
+[ Bead 1 of residue 360 ]
+1565 
+[ Bead 2 of residue 360 ]
+1566 1569 1570 1571 
+[ Bead 1 of residue 361 ]
+1570 
+[ Bead 2 of residue 361 ]
+1571 1574 
+[ Bead 1 of residue 362 ]
+1573 
+[ Bead 2 of residue 362 ]
+1574 1577 
+[ Bead 1 of residue 363 ]
+1576 
+[ Bead 2 of residue 363 ]
+1577 1580 1582 
+[ Bead 3 of residue 363 ]
+1581 1583 1584 
+[ Bead 4 of residue 363 ]
+1585 1587 
+[ Bead 5 of residue 363 ]
+1586 1588 
+[ Bead 1 of residue 364 ]
+1587 
+[ Bead 2 of residue 364 ]
+1588 1591 1592 1593 
+[ Bead 1 of residue 365 ]
+1593 
+[ Bead 2 of residue 365 ]
+1592 1594 1597 
+[ Bead 1 of residue 366 ]
+1596 
+[ Bead 2 of residue 366 ]
+1597 1600 1601 1602 
+[ Bead 1 of residue 367 ]
+1601 
+[ Bead 2 of residue 367 ]
+1602 1605 
+[ Bead 3 of residue 367 ]
+1607 1609 
+[ Bead 4 of residue 367 ]
+1606 1608 
+[ Bead 1 of residue 368 ]
+1608 
+[ Bead 2 of residue 368 ]
+1609 1612 1613 
+[ Bead 3 of residue 368 ]
+1614 1615 1616 1617 
+[ Bead 1 of residue 369 ]
+1616 
+[ Bead 1 of residue 370 ]
+1617 
+[ Bead 2 of residue 370 ]
+1618 1621 1622 
+[ Bead 3 of residue 370 ]
+1623 1625 
+[ Bead 4 of residue 370 ]
+1624 1626 
+[ Bead 1 of residue 371 ]
+1626 
+[ Bead 2 of residue 371 ]
+1625 1627 1630 
+[ Bead 1 of residue 372 ]
+1629 
+[ Bead 2 of residue 372 ]
+1630 1633 1634 1635 1636 
+[ Bead 1 of residue 373 ]
+1635 
+[ Bead 1 of residue 374 ]
+1636 
+[ Bead 1 of residue 375 ]
+1637 
+[ Bead 2 of residue 375 ]
+1638 1641 1642 1643 
+[ Bead 1 of residue 376 ]
+1642 
+[ Bead 1 of residue 377 ]
+1643 
+[ Bead 2 of residue 377 ]
+1644 1647 
+[ Bead 1 of residue 378 ]
+1646 
+[ Bead 1 of residue 379 ]
+1647 
+[ Bead 2 of residue 379 ]
+1648 1651 1652 
+[ Bead 3 of residue 379 ]
+1653 1654 
+[ Bead 1 of residue 380 ]
+1653 
+[ Bead 2 of residue 380 ]
+1654 1657 1658 1659 
+[ Bead 1 of residue 381 ]
+1658 
+[ Bead 2 of residue 381 ]
+1659 1662 1663 1664 
+[ Bead 1 of residue 382 ]
+1663 
+[ Bead 1 of residue 383 ]
+1664 
+[ Bead 2 of residue 383 ]
+1665 1668 1669 1670 
+[ Bead 1 of residue 384 ]
+1669 
+[ Bead 2 of residue 384 ]
+1670 1673 1674 1675 
+[ Bead 1 of residue 385 ]
+1674 
+[ Bead 2 of residue 385 ]
+1675 1678 1679 1680 1681 
+[ Bead 1 of residue 386 ]
+1680 
+[ Bead 2 of residue 386 ]
+1681 1684 
+[ Bead 1 of residue 387 ]
+1683 
+[ Bead 2 of residue 387 ]
+1684 1687 
+[ Bead 3 of residue 387 ]
+1689 1691 
+[ Bead 4 of residue 387 ]
+1688 1690 
+[ Bead 1 of residue 388 ]
+1690 
+[ Bead 1 of residue 389 ]
+1691 
+[ Bead 2 of residue 389 ]
+1692 1695 1696 1697 1698 
+[ Bead 1 of residue 390 ]
+1697 
+[ Bead 2 of residue 390 ]
+1698 1701 1702 1703 
+[ Bead 1 of residue 391 ]
+1702 
+[ Bead 2 of residue 391 ]
+1703 1706 1707 1708 
+[ Bead 1 of residue 392 ]
+1708 
+[ Bead 2 of residue 392 ]
+1707 1709 1712 
+[ Bead 1 of residue 393 ]
+1711 
+[ Bead 2 of residue 393 ]
+1712 1715 1716 1717 
+[ Bead 1 of residue 394 ]
+1716 
+[ Bead 2 of residue 394 ]
+1717 1720 1721 
+[ Bead 1 of residue 395 ]
+1721 
+[ Bead 2 of residue 395 ]
+1720 1722 1725 
+[ Bead 1 of residue 396 ]
+1724 
+[ Bead 2 of residue 396 ]
+1725 1728 1729 
+[ Bead 1 of residue 397 ]
+1728 
+[ Bead 2 of residue 397 ]
+1729 1732 1733 
+[ Bead 3 of residue 397 ]
+1734 1735 1736 1737 
+[ Bead 1 of residue 398 ]
+1736 
+[ Bead 2 of residue 398 ]
+1737 1740 1741 
+[ Bead 3 of residue 398 ]
+1742 1744 
+[ Bead 4 of residue 398 ]
+1743 1745 
+[ Bead 1 of residue 399 ]
+1744 
+[ Bead 1 of residue 400 ]
+1745 
+[ Bead 1 of residue 401 ]
+1746 
+[ Bead 2 of residue 401 ]
+1747 1750 1751 1752 
+[ Bead 1 of residue 402 ]
+1751 
+[ Bead 2 of residue 402 ]
+1752 1755 1756 
+[ Bead 1 of residue 403 ]
+1755 
+[ Bead 1 of residue 404 ]
+1756 
+[ Bead 2 of residue 404 ]
+1757 1760 1761 1762 1763 
+[ Bead 1 of residue 405 ]
+1762 
+[ Bead 2 of residue 405 ]
+1763 1766 1767 
+[ Bead 3 of residue 405 ]
+1768 1769 
+[ Bead 1 of residue 406 ]
+1768 
+[ Bead 2 of residue 406 ]
+1769 1772 1773 1774 
+[ Bead 1 of residue 407 ]
+1773 
+[ Bead 2 of residue 407 ]
+1774 1777 1778 
+[ Bead 3 of residue 407 ]
+1779 1780 1781 1782 
+[ Bead 1 of residue 408 ]
+1781 
+[ Bead 2 of residue 408 ]
+1782 1785 
+[ Bead 1 of residue 409 ]
+1784 
+[ Bead 2 of residue 409 ]
+1785 1788 1789 
+[ Bead 1 of residue 410 ]
+1788 
+[ Bead 2 of residue 410 ]
+1789 1792 1793 
+[ Bead 1 of residue 411 ]
+1792 
+[ Bead 2 of residue 411 ]
+1793 1796 1797 
+[ Bead 1 of residue 412 ]
+1797 
+[ Bead 2 of residue 412 ]
+1796 1798 1801 
+[ Bead 1 of residue 413 ]
+1800 
+[ Bead 1 of residue 414 ]
+1801 
+[ Bead 2 of residue 414 ]
+1802 1805 1806 
+[ Bead 3 of residue 414 ]
+1807 1808 1809 1810 
+[ Bead 1 of residue 415 ]
+1809 
+[ Bead 2 of residue 415 ]
+1810 1813 1814 
+[ Bead 1 of residue 416 ]
+1813 
+[ Bead 2 of residue 416 ]
+1814 1817 1818 1819 1820 
+[ Bead 1 of residue 417 ]
+1819 
+[ Bead 2 of residue 417 ]
+1820 1823 1824 
+[ Bead 3 of residue 417 ]
+1825 1827 
+[ Bead 4 of residue 417 ]
+1826 1828 
+[ Bead 1 of residue 418 ]
+1827 
+[ Bead 2 of residue 418 ]
+1828 1831 1832 
+[ Bead 3 of residue 418 ]
+1833 1834 
+[ Bead 1 of residue 419 ]
+1833 
+[ Bead 2 of residue 419 ]
+1834 1837 1838 
+[ Bead 1 of residue 420 ]
+1837 
+[ Bead 2 of residue 420 ]
+1838 1841 1842 
+[ Bead 3 of residue 420 ]
+1843 1845 
+[ Bead 4 of residue 420 ]
+1844 1846 1847 
+[ Bead 1 of residue 421 ]
+1847 
+[ Bead 2 of residue 421 ]
+1846 1848 1851 
+[ Bead 1 of residue 422 ]
+1850 
+[ Bead 1 of residue 423 ]
+1851 
+[ Bead 2 of residue 423 ]
+1852 1855 1856 
+[ Bead 1 of residue 424 ]
+1855 
+[ Bead 2 of residue 424 ]
+1856 1859 1860 1861 
+[ Bead 1 of residue 425 ]
+1860 
+[ Bead 2 of residue 425 ]
+1861 1864 
+[ Bead 3 of residue 425 ]
+1866 1868 
+[ Bead 4 of residue 425 ]
+1865 1867 
+[ Bead 1 of residue 426 ]
+1867 
+[ Bead 2 of residue 426 ]
+1868 1871 
+[ Bead 1 of residue 427 ]
+1870 
+[ Bead 2 of residue 427 ]
+1871 1874 
+[ Bead 1 of residue 428 ]
+1873 
+[ Bead 2 of residue 428 ]
+1874 1877 
+[ Bead 1 of residue 429 ]
+1877 
+[ Bead 2 of residue 429 ]
+1876 1878 1881 
+[ Bead 1 of residue 430 ]
+1880 
+[ Bead 2 of residue 430 ]
+1881 1884 1885 1886 1887 
+[ Bead 1 of residue 431 ]
+1886 
+[ Bead 2 of residue 431 ]
+1887 1890 1891 1892 1893 
+[ Bead 1 of residue 432 ]
+1892 
+[ Bead 2 of residue 432 ]
+1893 1896 1897 1898 
+[ Bead 1 of residue 433 ]
+1897 
+[ Bead 1 of residue 434 ]
+1898 
+[ Bead 1 of residue 435 ]
+1899 
+[ Bead 2 of residue 435 ]
+1900 1903 1904 
+[ Bead 1 of residue 436 ]
+1903 
+[ Bead 2 of residue 436 ]
+1904 1907 1908 
+[ Bead 3 of residue 436 ]
+1909 1910 
+[ Bead 1 of residue 437 ]
+1909 
+[ Bead 2 of residue 437 ]
+1910 1913 1914 1915 1916 
+[ Bead 1 of residue 438 ]
+1915 
+[ Bead 2 of residue 438 ]
+1916 1919 1920 
+[ Bead 3 of residue 438 ]
+1921 1923 
+[ Bead 4 of residue 438 ]
+1922 1924 
+[ Bead 1 of residue 439 ]
+1923 
+[ Bead 2 of residue 439 ]
+1924 1927 1928 1929 
+[ Bead 1 of residue 440 ]
+1928 
+[ Bead 2 of residue 440 ]
+1929 1932 1933 1934 1935 
+[ Bead 1 of residue 441 ]
+1934 
+[ Bead 2 of residue 441 ]
+1935 1938 1939 
+[ Bead 3 of residue 441 ]
+1940 1941 
+[ Bead 1 of residue 442 ]
+1940 
+[ Bead 2 of residue 442 ]
+1941 1944 1945 1946 
+[ Bead 1 of residue 443 ]
+1945 
+[ Bead 2 of residue 443 ]
+1946 1949 1950 1951 
+[ Bead 1 of residue 444 ]
+1951 
+[ Bead 2 of residue 444 ]
+1950 1952 1955 
+[ Bead 1 of residue 445 ]
+1955 
+[ Bead 2 of residue 445 ]
+1954 1956 1959 
+[ Bead 1 of residue 446 ]
+1958 
+[ Bead 2 of residue 446 ]
+1959 1962 1963 
+[ Bead 1 of residue 447 ]
+1962 
+[ Bead 2 of residue 447 ]
+1963 1966 1967 1968 
+[ Bead 1 of residue 448 ]
+1967 
+[ Bead 2 of residue 448 ]
+1968 1971 1972 1973 
+[ Bead 1 of residue 449 ]
+1972 
+[ Bead 2 of residue 449 ]
+1973 1976 1977 
+[ Bead 1 of residue 450 ]
+1976 
+[ Bead 2 of residue 450 ]
+1977 1980 1981 1982 
+[ Bead 1 of residue 451 ]
+1981 
+[ Bead 1 of residue 452 ]
+1982 
+[ Bead 1 of residue 453 ]
+1983 
+[ Bead 2 of residue 453 ]
+1984 1987 1988 
+[ Bead 1 of residue 454 ]
+1987 
+[ Bead 2 of residue 454 ]
+1988 1991 1992 
+[ Bead 1 of residue 455 ]
+1991 
+[ Bead 2 of residue 455 ]
+1992 1995 
+[ Bead 1 of residue 456 ]
+1994 
+[ Bead 1 of residue 457 ]
+1995 
+[ Bead 1 of residue 458 ]
+1996 
+[ Bead 2 of residue 458 ]
+1997 2000 2001 2002 2003 
+[ Bead 1 of residue 459 ]
+2002 
+[ Bead 2 of residue 459 ]
+2003 2006 2007 
+[ Bead 3 of residue 459 ]
+2008 2009 2010 2011 
+[ Bead 1 of residue 460 ]
+2010 
+[ Bead 2 of residue 460 ]
+2011 2014 2015 2016 2017 
+[ Bead 1 of residue 461 ]
+2016 
+[ Bead 2 of residue 461 ]
+2017 2020 2021 
+[ Bead 1 of residue 462 ]
+2020 
+[ Bead 1 of residue 463 ]
+2021 
+[ Bead 1 of residue 464 ]
+2022 
+[ Bead 2 of residue 464 ]
+2023 2026 2027 
+[ Bead 1 of residue 465 ]
+2026 
+[ Bead 2 of residue 465 ]
+2027 2030 2031 2032 
+[ Bead 1 of residue 466 ]
+2031 
+[ Bead 2 of residue 466 ]
+2032 2035 2036 
+[ Bead 3 of residue 466 ]
+2037 2039 
+[ Bead 4 of residue 466 ]
+2038 2040 
+[ Bead 1 of residue 467 ]
+2039 
+[ Bead 2 of residue 467 ]
+2040 2043 2044 2045 
+[ Bead 1 of residue 468 ]
+2044 
+[ Bead 2 of residue 468 ]
+2045 2048 
+[ Bead 3 of residue 468 ]
+2050 2052 
+[ Bead 4 of residue 468 ]
+2049 2051 
+[ Bead 1 of residue 469 ]
+2051 
+[ Bead 1 of residue 470 ]
+2052 
+[ Bead 2 of residue 470 ]
+2053 2056 2057 2058 
+[ Bead 1 of residue 471 ]
+2057 
+[ Bead 1 of residue 472 ]
+2058 
+[ Bead 2 of residue 472 ]
+2059 2062 2063 2064 
+[ Bead 1 of residue 473 ]
+2063 
+[ Bead 2 of residue 473 ]
+2064 2067 2068 
+[ Bead 1 of residue 474 ]
+2067 
+[ Bead 1 of residue 475 ]
+2068 
+[ Bead 2 of residue 475 ]
+2069 2072 
+[ Bead 3 of residue 475 ]
+2074 2076 
+[ Bead 4 of residue 475 ]
+2073 2075 
+[ Bead 1 of residue 476 ]
+2075 
+[ Bead 2 of residue 476 ]
+2076 2079 
+[ Bead 1 of residue 477 ]
+2078 
+[ Bead 2 of residue 477 ]
+2079 2082 2084 
+[ Bead 3 of residue 477 ]
+2083 2085 2086 
+[ Bead 4 of residue 477 ]
+2087 2089 
+[ Bead 5 of residue 477 ]
+2088 2090 
+[ Bead 1 of residue 478 ]
+2089 
+[ Bead 1 of residue 479 ]
+2090 
+[ Bead 2 of residue 479 ]
+2091 2094 2095 2096 
+[ Bead 1 of residue 480 ]
+2095 
+[ Bead 1 of residue 481 ]
+2096 
+[ Bead 2 of residue 481 ]
+2097 2100 2101 2102 
+[ Bead 1 of residue 482 ]
+2101 
+[ Bead 2 of residue 482 ]
+2102 2105 
+[ Bead 1 of residue 483 ]
+2104 
+[ Bead 2 of residue 483 ]
+2105 2108 2109 
+[ Bead 1 of residue 484 ]
+2108 
+[ Bead 2 of residue 484 ]
+2109 2112 2113 2114 
+[ Bead 1 of residue 485 ]
+2113 
+[ Bead 2 of residue 485 ]
+2114 2117 2118 
+[ Bead 3 of residue 485 ]
+2119 2120 2121 2122 
+[ Bead 1 of residue 486 ]
+2121 
+[ Bead 2 of residue 486 ]
+2122 2125 2126 2127 
+[ Bead 1 of residue 487 ]
+2127 
+[ Bead 2 of residue 487 ]
+2126 2128 2131 
+[ Bead 1 of residue 488 ]
+2130 
+[ Bead 2 of residue 488 ]
+2131 2134 
+[ Bead 3 of residue 488 ]
+2136 2138 
+[ Bead 4 of residue 488 ]
+2135 2137 
+[ Bead 1 of residue 489 ]
+2137 
+[ Bead 2 of residue 489 ]
+2138 2141 2142 
+[ Bead 1 of residue 490 ]
+2141 
+[ Bead 2 of residue 490 ]
+2142 2145 2146 
+[ Bead 3 of residue 490 ]
+2147 2148 
+[ Bead 1 of residue 491 ]
+2147 
+[ Bead 2 of residue 491 ]
+2148 2151 2152 
+[ Bead 3 of residue 491 ]
+2153 2155 
+[ Bead 4 of residue 491 ]
+2154 2156 2157 
+[ Bead 1 of residue 492 ]
+2156 
+[ Bead 2 of residue 492 ]
+2157 2160 2161 2162 
+[ Bead 1 of residue 493 ]
+2161 
+[ Bead 2 of residue 493 ]
+2162 2165 
+[ Bead 1 of residue 494 ]
+2165 
+[ Bead 2 of residue 494 ]
+2164 2166 2169 
+[ Bead 1 of residue 495 ]
+2168 
+[ Bead 2 of residue 495 ]
+2169 2172 
+[ Bead 3 of residue 495 ]
+2174 2176 
+[ Bead 4 of residue 495 ]
+2173 2175 
+[ Bead 1 of residue 496 ]
+2175 
+[ Bead 1 of residue 497 ]
+2177 
+[ Bead 2 of residue 497 ]
+2176 2178 2181 
+[ Bead 1 of residue 498 ]
+2180 
+[ Bead 2 of residue 498 ]
+2181 2184 2185 
+[ Bead 3 of residue 498 ]
+2186 2187 2188 2189 
+[ Bead 1 of residue 499 ]
+2188 
+[ Bead 2 of residue 499 ]
+2189 2192 2193 2194 
+[ Bead 1 of residue 500 ]
+2194 
+[ Bead 2 of residue 500 ]
+2193 2195 2198 
+[ Bead 1 of residue 501 ]
+2197 
+[ Bead 2 of residue 501 ]
+2198 2201 2202 
+[ Bead 1 of residue 502 ]
+2201 
+[ Bead 2 of residue 502 ]
+2202 2205 2206 
+[ Bead 1 of residue 503 ]
+2205 
+[ Bead 2 of residue 503 ]
+2206 2209 2210 2211 
+[ Bead 1 of residue 504 ]
+2210 
+[ Bead 2 of residue 504 ]
+2211 2214 2215 2216 
+[ Bead 1 of residue 505 ]
+2215 
+[ Bead 2 of residue 505 ]
+2216 2219 2220 2221 
+[ Bead 1 of residue 506 ]
+2220 
+[ Bead 2 of residue 506 ]
+2221 2224 2225 
+[ Bead 3 of residue 506 ]
+2226 2227 
+[ Bead 1 of residue 507 ]
+2226 
+[ Bead 2 of residue 507 ]
+2227 2230 2231 2232 
+[ Bead 1 of residue 508 ]
+2231 
+[ Bead 2 of residue 508 ]
+2232 2235 2236 
+[ Bead 1 of residue 509 ]
+2235 
+[ Bead 2 of residue 509 ]
+2236 2239 2240 2241 
+[ Bead 1 of residue 510 ]
+2241 
+[ Bead 2 of residue 510 ]
+2240 2242 2245 
+[ Bead 1 of residue 511 ]
+2244 
+[ Bead 2 of residue 511 ]
+2245 2248 
+[ Bead 1 of residue 512 ]
+2247 
+[ Bead 2 of residue 512 ]
+2248 2251 2253 
+[ Bead 3 of residue 512 ]
+2252 2254 2255 
+[ Bead 4 of residue 512 ]
+2256 2258 
+[ Bead 5 of residue 512 ]
+2257 2259 
+[ Bead 1 of residue 513 ]
+2258 
+[ Bead 2 of residue 513 ]
+2259 2262 2263 
+[ Bead 3 of residue 513 ]
+2264 2266 
+[ Bead 4 of residue 513 ]
+2265 2267 
+[ Bead 1 of residue 514 ]
+2266 
+[ Bead 2 of residue 514 ]
+2267 2270 2271 2272 
+[ Bead 1 of residue 515 ]
+2271 
+[ Bead 2 of residue 515 ]
+2272 2275 2276 2277 
+[ Bead 1 of residue 516 ]
+2276 
+[ Bead 2 of residue 516 ]
+2277 2280 2281 2282 
+[ Bead 1 of residue 517 ]
+2281 
+[ Bead 1 of residue 518 ]
+2282 
+[ Bead 2 of residue 518 ]
+2283 2286 2287 2288 
+[ Bead 1 of residue 519 ]
+2287 
+[ Bead 2 of residue 519 ]
+2288 2291 
+[ Bead 1 of residue 520 ]
+2291 
+[ Bead 2 of residue 520 ]
+2290 2292 2295 
+[ Bead 1 of residue 521 ]
+2294 
+[ Bead 2 of residue 521 ]
+2295 2298 2299 2300 
+[ Bead 1 of residue 522 ]
+2299 
+[ Bead 1 of residue 523 ]
+2301 
+[ Bead 2 of residue 523 ]
+2300 2302 2305 
+[ Bead 1 of residue 524 ]
+2304 
+[ Bead 2 of residue 524 ]
+2305 2308 2309 2310 2311 
+[ Bead 1 of residue 525 ]
+2310 
+[ Bead 2 of residue 525 ]
+2311 2314 2315 2316 
+[ Bead 1 of residue 526 ]
+2315 
+[ Bead 2 of residue 526 ]
+2316 2319 2320 2321 2322 
+[ Bead 1 of residue 527 ]
+2321 
+[ Bead 1 of residue 528 ]
+2322 
+[ Bead 1 of residue 529 ]
+2323 
+[ Bead 2 of residue 529 ]
+2324 2327 2328 2329 
+[ Bead 1 of residue 530 ]
+2328 
+[ Bead 2 of residue 530 ]
+2329 2332 2333 
+[ Bead 3 of residue 530 ]
+2334 2335 
+[ Bead 1 of residue 531 ]
+2334 
+[ Bead 2 of residue 531 ]
+2335 2338 2339 
+[ Bead 3 of residue 531 ]
+2340 2341 
+[ Bead 1 of residue 532 ]
+2340 
+[ Bead 1 of residue 533 ]
+2341 
+[ Bead 1 of residue 534 ]
+2342 
+[ Bead 2 of residue 534 ]
+2343 2346 2347 2348 2349 
+[ Bead 1 of residue 535 ]
+2348 
+[ Bead 2 of residue 535 ]
+2349 2352 2353 2354 
+[ Bead 1 of residue 536 ]
+2353 
+[ Bead 2 of residue 536 ]
+2354 2357 2358 2359 
+[ Bead 1 of residue 537 ]
+2358 
+[ Bead 2 of residue 537 ]
+2359 2362 2363 
+[ Bead 3 of residue 537 ]
+2364 2365 
+[ Bead 1 of residue 538 ]
+2364 
+[ Bead 1 of residue 539 ]
+2365 
+[ Bead 2 of residue 539 ]
+2366 2369 2370 2371 
+[ Bead 1 of residue 540 ]
+2370 
+[ Bead 2 of residue 540 ]
+2371 2374 2375 2376 
+[ Bead 1 of residue 541 ]
+2375 
+[ Bead 2 of residue 541 ]
+2376 2379 2380 2381 2382 
+[ Bead 1 of residue 542 ]
+2381 
+[ Bead 2 of residue 542 ]
+2382 2385 
+[ Bead 3 of residue 542 ]
+2387 2389 
+[ Bead 4 of residue 542 ]
+2386 2388 
+[ Bead 1 of residue 543 ]
+2388 
+[ Bead 2 of residue 543 ]
+2389 2392 2393 2394 2395 
+[ Bead 1 of residue 544 ]
+2394 
+[ Bead 2 of residue 544 ]
+2395 2398 2399 2400 
+[ Bead 1 of residue 545 ]
+2399 
+[ Bead 2 of residue 545 ]
+2400 2403 2404 
+[ Bead 3 of residue 545 ]
+2405 2406 
+[ Bead 1 of residue 546 ]
+2405 
+[ Bead 2 of residue 546 ]
+2406 2409 2410 2411 
+[ Bead 1 of residue 547 ]
+2410 
+[ Bead 1 of residue 548 ]
+2411 
+[ Bead 2 of residue 548 ]
+2412 2415 2416 2417 
+[ Bead 1 of residue 549 ]
+2417 
+[ Bead 2 of residue 549 ]
+2416 2418 2421 
+[ Bead 1 of residue 550 ]
+2420 
+[ Bead 1 of residue 551 ]
+2421 
+[ Bead 2 of residue 551 ]
+2422 2425 2426 2427 
+[ Bead 1 of residue 552 ]
+2426 
+[ Bead 2 of residue 552 ]
+2427 2430 2431 
+[ Bead 3 of residue 552 ]
+2432 2433 2434 2435 
+[ Bead 1 of residue 553 ]
+2434 
+[ Bead 2 of residue 553 ]
+2435 2438 2439 2440 
+[ Bead 1 of residue 554 ]
+2439 
+[ Bead 2 of residue 554 ]
+2440 2443 2444 
+[ Bead 1 of residue 555 ]
+2443 
+[ Bead 2 of residue 555 ]
+2444 2447 2448 2449 
+[ Bead 1 of residue 556 ]
+2448 
+[ Bead 1 of residue 557 ]
+2449 
+[ Bead 1 of residue 558 ]
+2450 
+[ Bead 2 of residue 558 ]
+2451 2454 2455 
+[ Bead 3 of residue 558 ]
+2456 2458 
+[ Bead 4 of residue 558 ]
+2457 2459 
+[ Bead 1 of residue 559 ]
+2458 
+[ Bead 2 of residue 559 ]
+2459 2462 
+[ Bead 1 of residue 560 ]
+2461 
+[ Bead 2 of residue 560 ]
+2462 2465 2466 2467 2468 
+[ Bead 1 of residue 561 ]
+2467 
+[ Bead 1 of residue 562 ]
+2468 
+[ Bead 1 of residue 563 ]
+2469 
+[ Bead 1 of residue 564 ]
+2470 
+[ Bead 2 of residue 564 ]
+2471 2474 2475 2476 
+[ Bead 1 of residue 565 ]
+2475 
+[ Bead 2 of residue 565 ]
+2476 2479 
+[ Bead 1 of residue 566 ]
+2478 
+[ Bead 2 of residue 566 ]
+2479 2482 2483 2484 
+[ Bead 1 of residue 567 ]
+2483 
+[ Bead 2 of residue 567 ]
+2484 2487 2488 
+[ Bead 3 of residue 567 ]
+2489 2491 
+[ Bead 4 of residue 567 ]
+2490 2492 2493 
+[ Bead 1 of residue 568 ]
+2492 
+[ Bead 2 of residue 568 ]
+2493 2496 2497 
+[ Bead 1 of residue 569 ]
+2496 
+[ Bead 1 of residue 570 ]
+2497 
+[ Bead 2 of residue 570 ]
+2498 2501 2502 2503 
+[ Bead 1 of residue 571 ]
+2502 
+[ Bead 2 of residue 571 ]
+2503 2506 2507 
+[ Bead 1 of residue 572 ]
+2506 
+[ Bead 2 of residue 572 ]
+2507 2510 
+[ Bead 1 of residue 573 ]
+2510 
+[ Bead 2 of residue 573 ]
+2509 2511 2514 
+[ Bead 1 of residue 574 ]
+2513 
+[ Bead 2 of residue 574 ]
+2514 2517 
+[ Bead 3 of residue 574 ]
+2519 2521 
+[ Bead 4 of residue 574 ]
+2518 2520 
+[ Bead 1 of residue 575 ]
+2521 
+[ Bead 2 of residue 575 ]
+2520 2522 2525 
+[ Bead 1 of residue 576 ]
+2524 
+[ Bead 2 of residue 576 ]
+2525 2528 2529 2530 
+[ Bead 1 of residue 577 ]
+2529 
+[ Bead 1 of residue 578 ]
+2530 
+[ Bead 1 of residue 579 ]
+2531 
+[ Bead 2 of residue 579 ]
+2532 2535 2536 2537 
+[ Bead 1 of residue 580 ]
+2536 
+[ Bead 2 of residue 580 ]
+2537 2540 2541 
+[ Bead 1 of residue 581 ]
+2540 
+[ Bead 1 of residue 582 ]
+2541 
+[ Bead 2 of residue 582 ]
+2542 2545 2546 2547 
+[ Bead 1 of residue 583 ]
+2546 
+[ Bead 2 of residue 583 ]
+2547 2550 
+[ Bead 1 of residue 584 ]
+2549 
+[ Bead 2 of residue 584 ]
+2550 2553 
+[ Bead 1 of residue 585 ]
+2552 
+[ Bead 2 of residue 585 ]
+2553 2556 2558 
+[ Bead 3 of residue 585 ]
+2557 2559 2560 
+[ Bead 4 of residue 585 ]
+2561 2563 
+[ Bead 5 of residue 585 ]
+2562 2564 
+[ Bead 1 of residue 586 ]
+2563 
+[ Bead 2 of residue 586 ]
+2564 2567 2568 2569 
+[ Bead 1 of residue 587 ]
+2569 
+[ Bead 2 of residue 587 ]
+2568 2570 2573 
+[ Bead 1 of residue 588 ]
+2572 
+[ Bead 2 of residue 588 ]
+2573 2576 2577 2578 
+[ Bead 1 of residue 589 ]
+2577 
+[ Bead 2 of residue 589 ]
+2578 2581 
+[ Bead 3 of residue 589 ]
+2583 2585 
+[ Bead 4 of residue 589 ]
+2582 2584 
+[ Bead 1 of residue 590 ]
+2584 
+[ Bead 2 of residue 590 ]
+2585 2588 2589 
+[ Bead 3 of residue 590 ]
+2590 2591 2592 2593 
+[ Bead 1 of residue 591 ]
+2592 
+[ Bead 1 of residue 592 ]
+2593 
+[ Bead 2 of residue 592 ]
+2594 2597 2598 
+[ Bead 3 of residue 592 ]
+2599 2601 
+[ Bead 4 of residue 592 ]
+2600 2602 
+[ Bead 1 of residue 593 ]
+2602 
+[ Bead 2 of residue 593 ]
+2601 2603 2606 
+[ Bead 1 of residue 594 ]
+2605 
+[ Bead 2 of residue 594 ]
+2606 2609 2610 2611 2612 
+[ Bead 1 of residue 595 ]
+2611 
+[ Bead 1 of residue 596 ]
+2612 
+[ Bead 2 of residue 596 ]
+2613 2616 2617 2618 
+[ Bead 1 of residue 597 ]
+2617 
+[ Bead 1 of residue 598 ]
+2618 
+[ Bead 2 of residue 598 ]
+2619 2622 
+[ Bead 1 of residue 599 ]
+2621 
+[ Bead 1 of residue 600 ]
+2622 
+[ Bead 2 of residue 600 ]
+2623 2626 2627 
+[ Bead 3 of residue 600 ]
+2628 2629 
+[ Bead 1 of residue 601 ]
+2628 
+[ Bead 2 of residue 601 ]
+2629 2632 2633 2634 
+[ Bead 1 of residue 602 ]
+2633 
+[ Bead 2 of residue 602 ]
+2634 2637 2638 2639 
+[ Bead 1 of residue 603 ]
+2638 
+[ Bead 1 of residue 604 ]
+2639 
+[ Bead 2 of residue 604 ]
+2640 2643 2644 2645 
+[ Bead 1 of residue 605 ]
+2644 
+[ Bead 2 of residue 605 ]
+2645 2648 2649 2650 
+[ Bead 1 of residue 606 ]
+2649 
+[ Bead 2 of residue 606 ]
+2650 2653 2654 2655 2656 
+[ Bead 1 of residue 607 ]
+2655 
+[ Bead 2 of residue 607 ]
+2656 2659 
+[ Bead 1 of residue 608 ]
+2658 
+[ Bead 2 of residue 608 ]
+2659 2662 
+[ Bead 3 of residue 608 ]
+2664 2666 
+[ Bead 4 of residue 608 ]
+2663 2665 
+[ Bead 1 of residue 609 ]
+2665 
+[ Bead 1 of residue 610 ]
+2666 
+[ Bead 2 of residue 610 ]
+2667 2670 2671 2672 2673 
+[ Bead 1 of residue 611 ]
+2672 
+[ Bead 2 of residue 611 ]
+2673 2676 2677 2678 
+[ Bead 1 of residue 612 ]
+2677 
+[ Bead 2 of residue 612 ]
+2678 2681 2682 2683 
+[ Bead 1 of residue 613 ]
+2683 
+[ Bead 2 of residue 613 ]
+2682 2684 2687 
+[ Bead 1 of residue 614 ]
+2686 
+[ Bead 2 of residue 614 ]
+2687 2690 2691 2692 
+[ Bead 1 of residue 615 ]
+2691 
+[ Bead 2 of residue 615 ]
+2692 2695 2696 
+[ Bead 1 of residue 616 ]
+2696 
+[ Bead 2 of residue 616 ]
+2695 2697 2700 
+[ Bead 1 of residue 617 ]
+2699 
+[ Bead 2 of residue 617 ]
+2700 2703 2704 
+[ Bead 1 of residue 618 ]
+2703 
+[ Bead 2 of residue 618 ]
+2704 2707 2708 
+[ Bead 3 of residue 618 ]
+2709 2710 2711 2712 
+[ Bead 1 of residue 619 ]
+2711 
+[ Bead 2 of residue 619 ]
+2712 2715 2716 
+[ Bead 3 of residue 619 ]
+2717 2719 
+[ Bead 4 of residue 619 ]
+2718 2720 
+[ Bead 1 of residue 620 ]
+2719 
+[ Bead 1 of residue 621 ]
+2720 
+[ Bead 1 of residue 622 ]
+2721 
+[ Bead 2 of residue 622 ]
+2722 2725 2726 2727 
+[ Bead 1 of residue 623 ]
+2726 
+[ Bead 2 of residue 623 ]
+2727 2730 2731 
+[ Bead 1 of residue 624 ]
+2730 
+[ Bead 1 of residue 625 ]
+2731 
+[ Bead 2 of residue 625 ]
+2732 2735 2736 2737 2738 
+[ Bead 1 of residue 626 ]
+2737 
+[ Bead 2 of residue 626 ]
+2738 2741 2742 
+[ Bead 3 of residue 626 ]
+2743 2744 
+[ Bead 1 of residue 627 ]
+2743 
+[ Bead 2 of residue 627 ]
+2744 2747 2748 2749 
+[ Bead 1 of residue 628 ]
+2748 
+[ Bead 2 of residue 628 ]
+2749 2752 2753 
+[ Bead 3 of residue 628 ]
+2754 2755 2756 2757 
+[ Bead 1 of residue 629 ]
+2756 
+[ Bead 2 of residue 629 ]
+2757 2760 
+[ Bead 1 of residue 630 ]
+2759 
+[ Bead 2 of residue 630 ]
+2760 2763 2764 
+[ Bead 1 of residue 631 ]
+2763 
+[ Bead 2 of residue 631 ]
+2764 2767 2768 
+[ Bead 1 of residue 632 ]
+2767 
+[ Bead 2 of residue 632 ]
+2768 2771 2772 
+[ Bead 1 of residue 633 ]
+2772 
+[ Bead 2 of residue 633 ]
+2771 2773 2776 
+[ Bead 1 of residue 634 ]
+2775 
+[ Bead 1 of residue 635 ]
+2776 
+[ Bead 2 of residue 635 ]
+2777 2780 2781 
+[ Bead 3 of residue 635 ]
+2782 2783 2784 2785 
+[ Bead 1 of residue 636 ]
+2784 
+[ Bead 2 of residue 636 ]
+2785 2788 2789 
+[ Bead 1 of residue 637 ]
+2788 
+[ Bead 2 of residue 637 ]
+2789 2792 2793 2794 2795 
+[ Bead 1 of residue 638 ]
+2794 
+[ Bead 2 of residue 638 ]
+2795 2798 2799 
+[ Bead 3 of residue 638 ]
+2800 2802 
+[ Bead 4 of residue 638 ]
+2801 2803 
+[ Bead 1 of residue 639 ]
+2802 
+[ Bead 2 of residue 639 ]
+2803 2806 2807 
+[ Bead 3 of residue 639 ]
+2808 2809 
+[ Bead 1 of residue 640 ]
+2808 
+[ Bead 2 of residue 640 ]
+2809 2812 2813 
+[ Bead 1 of residue 641 ]
+2812 
+[ Bead 2 of residue 641 ]
+2813 2816 2817 
+[ Bead 3 of residue 641 ]
+2818 2820 
+[ Bead 4 of residue 641 ]
+2819 2821 2822 
+[ Bead 1 of residue 642 ]
+2822 
+[ Bead 2 of residue 642 ]
+2821 2823 2826 
+[ Bead 1 of residue 643 ]
+2825 
+[ Bead 1 of residue 644 ]
+2826 
+[ Bead 2 of residue 644 ]
+2827 2830 2831 
+[ Bead 1 of residue 645 ]
+2830 
+[ Bead 2 of residue 645 ]
+2831 2834 2835 2836 
+[ Bead 1 of residue 646 ]
+2835 
+[ Bead 2 of residue 646 ]
+2836 2839 
+[ Bead 3 of residue 646 ]
+2841 2843 
+[ Bead 4 of residue 646 ]
+2840 2842 
+[ Bead 1 of residue 647 ]
+2842 
+[ Bead 2 of residue 647 ]
+2843 2846 
+[ Bead 1 of residue 648 ]
+2845 
+[ Bead 2 of residue 648 ]
+2846 2849 
+[ Bead 1 of residue 649 ]
+2848 
+[ Bead 2 of residue 649 ]
+2849 2852 
+[ Bead 1 of residue 650 ]
+2852 
+[ Bead 2 of residue 650 ]
+2851 2853 2856 
+[ Bead 1 of residue 651 ]
+2855 
+[ Bead 2 of residue 651 ]
+2856 2859 2860 2861 2862 
+[ Bead 1 of residue 652 ]
+2861 
+[ Bead 2 of residue 652 ]
+2862 2865 2866 2867 2868 
+[ Bead 1 of residue 653 ]
+2867 
+[ Bead 2 of residue 653 ]
+2868 2871 2872 2873 
+[ Bead 1 of residue 654 ]
+2872 
+[ Bead 1 of residue 655 ]
+2873 
+[ Bead 1 of residue 656 ]
+2874 
+[ Bead 2 of residue 656 ]
+2875 2878 2879 
+[ Bead 1 of residue 657 ]
+2878 
+[ Bead 2 of residue 657 ]
+2879 2882 2883 
+[ Bead 3 of residue 657 ]
+2884 2885 
+[ Bead 1 of residue 658 ]
+2884 
+[ Bead 2 of residue 658 ]
+2885 2888 2889 2890 2891 
+[ Bead 1 of residue 659 ]
+2890 
+[ Bead 2 of residue 659 ]
+2891 2894 2895 
+[ Bead 3 of residue 659 ]
+2896 2898 
+[ Bead 4 of residue 659 ]
+2897 2899 
+[ Bead 1 of residue 660 ]
+2898 
+[ Bead 2 of residue 660 ]
+2899 2902 2903 2904 
+[ Bead 1 of residue 661 ]
+2903 
+[ Bead 2 of residue 661 ]
+2904 2907 2908 2909 2910 
+[ Bead 1 of residue 662 ]
+2909 
+[ Bead 2 of residue 662 ]
+2910 2913 2914 
+[ Bead 3 of residue 662 ]
+2915 2916 
+[ Bead 1 of residue 663 ]
+2915 
+[ Bead 2 of residue 663 ]
+2916 2919 2920 2921 
+[ Bead 1 of residue 664 ]
+2920 
+[ Bead 2 of residue 664 ]
+2921 2924 2925 2926 
+[ Bead 1 of residue 665 ]
+2926 
+[ Bead 2 of residue 665 ]
+2925 2927 2930 
+[ Bead 1 of residue 666 ]
+2930 
+[ Bead 2 of residue 666 ]
+2929 2931 2934 
+[ Bead 1 of residue 667 ]
+2933 
+[ Bead 2 of residue 667 ]
+2934 2937 2938 
+[ Bead 1 of residue 668 ]
+2937 
+[ Bead 2 of residue 668 ]
+2938 2941 2942 2943 
+[ Bead 1 of residue 669 ]
+2942 
+[ Bead 2 of residue 669 ]
+2943 2946 2947 2948 
+[ Bead 1 of residue 670 ]
+2947 
+[ Bead 2 of residue 670 ]
+2948 2951 2952 
+[ Bead 1 of residue 671 ]
+2951 
+[ Bead 2 of residue 671 ]
+2952 2955 2956 2957 
+[ Bead 1 of residue 672 ]
+2956 
+[ Bead 1 of residue 673 ]
+2957 
+[ Bead 1 of residue 674 ]
+2958 
+[ Bead 2 of residue 674 ]
+2959 2962 2963 
+[ Bead 1 of residue 675 ]
+2962 
+[ Bead 2 of residue 675 ]
+2963 2966 2967 
+[ Bead 1 of residue 676 ]
+2966 
+[ Bead 2 of residue 676 ]
+2967 2970 
+[ Bead 1 of residue 677 ]
+2969 
+[ Bead 1 of residue 678 ]
+2970 
+[ Bead 1 of residue 679 ]
+2971 
+[ Bead 2 of residue 679 ]
+2972 2975 2976 2977 2978 
+[ Bead 1 of residue 680 ]
+2977 
+[ Bead 2 of residue 680 ]
+2978 2981 2982 
+[ Bead 3 of residue 680 ]
+2983 2984 2985 2986 
+[ Bead 1 of residue 681 ]
+2985 
+[ Bead 2 of residue 681 ]
+2986 2989 2990 2991 2992 
+[ Bead 1 of residue 682 ]
+2991 
+[ Bead 2 of residue 682 ]
+2992 2995 2996 
+[ Bead 1 of residue 683 ]
+2995 
+[ Bead 1 of residue 684 ]
+2996 
+[ Bead 1 of residue 685 ]
+2997 
+[ Bead 2 of residue 685 ]
+2998 3001 3002 
+[ Bead 1 of residue 686 ]
+3001 
+[ Bead 2 of residue 686 ]
+3002 3005 3006 3007 
+[ Bead 1 of residue 687 ]
+3006 
+[ Bead 2 of residue 687 ]
+3007 3010 3011 
+[ Bead 3 of residue 687 ]
+3012 3014 
+[ Bead 4 of residue 687 ]
+3013 3015 
+[ Bead 1 of residue 688 ]
+3014 
+[ Bead 2 of residue 688 ]
+3015 3018 3019 3020 
+[ Bead 1 of residue 689 ]
+3019 
+[ Bead 2 of residue 689 ]
+3020 3023 
+[ Bead 3 of residue 689 ]
+3025 3027 
+[ Bead 4 of residue 689 ]
+3024 3026 
+[ Bead 1 of residue 690 ]
+3026 
+[ Bead 1 of residue 691 ]
+3027 
+[ Bead 2 of residue 691 ]
+3028 3031 3032 3033 
+[ Bead 1 of residue 692 ]
+3032 
+[ Bead 1 of residue 693 ]
+3033 
+[ Bead 2 of residue 693 ]
+3034 3037 3038 3039 
+[ Bead 1 of residue 694 ]
+3038 
+[ Bead 2 of residue 694 ]
+3039 3042 3043 
+[ Bead 1 of residue 695 ]
+3042 
+[ Bead 1 of residue 696 ]
+3043 
+[ Bead 2 of residue 696 ]
+3044 3047 
+[ Bead 3 of residue 696 ]
+3049 3051 
+[ Bead 4 of residue 696 ]
+3048 3050 
+[ Bead 1 of residue 697 ]
+3050 
+[ Bead 2 of residue 697 ]
+3051 3054 
+[ Bead 1 of residue 698 ]
+3053 
+[ Bead 2 of residue 698 ]
+3054 3057 3059 
+[ Bead 3 of residue 698 ]
+3058 3060 3061 
+[ Bead 4 of residue 698 ]
+3062 3064 
+[ Bead 5 of residue 698 ]
+3063 3065 
+[ Bead 1 of residue 699 ]
+3064 
+[ Bead 1 of residue 700 ]
+3065 
+[ Bead 2 of residue 700 ]
+3066 3069 3070 3071 
+[ Bead 1 of residue 701 ]
+3070 
+[ Bead 1 of residue 702 ]
+3071 
+[ Bead 2 of residue 702 ]
+3072 3075 3076 3077 
+[ Bead 1 of residue 703 ]
+3076 
+[ Bead 2 of residue 703 ]
+3077 3080 
+[ Bead 1 of residue 704 ]
+3079 
+[ Bead 2 of residue 704 ]
+3080 3083 3084 
+[ Bead 1 of residue 705 ]
+3083 
+[ Bead 2 of residue 705 ]
+3084 3087 3088 3089 
+[ Bead 1 of residue 706 ]
+3088 
+[ Bead 2 of residue 706 ]
+3089 3092 3093 
+[ Bead 3 of residue 706 ]
+3094 3095 3096 3097 
+[ Bead 1 of residue 707 ]
+3096 
+[ Bead 2 of residue 707 ]
+3097 3100 3101 3102 
+[ Bead 1 of residue 708 ]
+3102 
+[ Bead 2 of residue 708 ]
+3101 3103 3106 
+[ Bead 1 of residue 709 ]
+3105 
+[ Bead 2 of residue 709 ]
+3106 3109 
+[ Bead 3 of residue 709 ]
+3111 3113 
+[ Bead 4 of residue 709 ]
+3110 3112 
+[ Bead 1 of residue 710 ]
+3112 
+[ Bead 2 of residue 710 ]
+3113 3116 3117 
+[ Bead 1 of residue 711 ]
+3116 
+[ Bead 2 of residue 711 ]
+3117 3120 3121 
+[ Bead 3 of residue 711 ]
+3122 3123 
+[ Bead 1 of residue 712 ]
+3122 
+[ Bead 2 of residue 712 ]
+3123 3126 3127 
+[ Bead 3 of residue 712 ]
+3128 3130 
+[ Bead 4 of residue 712 ]
+3129 3131 3132 
+[ Bead 1 of residue 713 ]
+3131 
+[ Bead 2 of residue 713 ]
+3132 3135 3136 3137 
+[ Bead 1 of residue 714 ]
+3136 
+[ Bead 2 of residue 714 ]
+3137 3140 
+[ Bead 1 of residue 715 ]
+3140 
+[ Bead 2 of residue 715 ]
+3139 3141 3144 
+[ Bead 1 of residue 716 ]
+3143 
+[ Bead 2 of residue 716 ]
+3144 3147 
+[ Bead 3 of residue 716 ]
+3149 3151 
+[ Bead 4 of residue 716 ]
+3148 3150 
+[ Bead 1 of residue 717 ]
+3150 
+[ Bead 1 of residue 718 ]
+3152 
+[ Bead 2 of residue 718 ]
+3151 3153 3156 
+[ Bead 1 of residue 719 ]
+3155 
+[ Bead 2 of residue 719 ]
+3156 3159 3160 
+[ Bead 3 of residue 719 ]
+3161 3162 3163 3164 
+[ Bead 1 of residue 720 ]
+3163 
+[ Bead 2 of residue 720 ]
+3164 3167 3168 3169 
+[ Bead 1 of residue 721 ]
+3169 
+[ Bead 2 of residue 721 ]
+3168 3170 3173 
+[ Bead 1 of residue 722 ]
+3172 
+[ Bead 2 of residue 722 ]
+3173 3176 3177 
+[ Bead 1 of residue 723 ]
+3176 
+[ Bead 2 of residue 723 ]
+3177 3180 3181 
+[ Bead 1 of residue 724 ]
+3180 
+[ Bead 2 of residue 724 ]
+3181 3184 3185 3186 
+[ Bead 1 of residue 725 ]
+3185 
+[ Bead 2 of residue 725 ]
+3186 3189 3190 3191 
+[ Bead 1 of residue 726 ]
+3190 
+[ Bead 2 of residue 726 ]
+3191 3194 3195 3196 
+[ Bead 1 of residue 727 ]
+3195 
+[ Bead 2 of residue 727 ]
+3196 3199 3200 
+[ Bead 3 of residue 727 ]
+3201 3202 
+[ Bead 1 of residue 728 ]
+3201 
+[ Bead 2 of residue 728 ]
+3202 3205 3206 3207 
+[ Bead 1 of residue 729 ]
+3206 
+[ Bead 2 of residue 729 ]
+3207 3210 3211 
+[ Bead 1 of residue 730 ]
+3210 
+[ Bead 2 of residue 730 ]
+3211 3214 3215 3216 
+[ Bead 1 of residue 731 ]
+3216 
+[ Bead 2 of residue 731 ]
+3215 3217 3220 
+[ Bead 1 of residue 732 ]
+3219 
+[ Bead 2 of residue 732 ]
+3220 3223 
+[ Bead 1 of residue 733 ]
+3222 
+[ Bead 2 of residue 733 ]
+3223 3226 3228 
+[ Bead 3 of residue 733 ]
+3227 3229 3230 
+[ Bead 4 of residue 733 ]
+3231 3233 
+[ Bead 5 of residue 733 ]
+3232 3234 
+[ Bead 1 of residue 734 ]
+3233 
+[ Bead 2 of residue 734 ]
+3234 3237 3238 
+[ Bead 3 of residue 734 ]
+3239 3241 
+[ Bead 4 of residue 734 ]
+3240 3242 
+[ Bead 1 of residue 735 ]
+3241 
+[ Bead 2 of residue 735 ]
+3242 3245 3246 3247 
+[ Bead 1 of residue 736 ]
+3246 
+[ Bead 2 of residue 736 ]
+3247 3250 3251 3252 
+[ Bead 1 of residue 737 ]
+3251 
+[ Bead 2 of residue 737 ]
+3252 3255 3256 3257 
+[ Bead 1 of residue 738 ]
+3256 
+[ Bead 1 of residue 739 ]
+3257 
+[ Bead 2 of residue 739 ]
+3258 3261 3262 3263 
+[ Bead 1 of residue 740 ]
+3262 
+[ Bead 2 of residue 740 ]
+3263 3266 
+[ Bead 1 of residue 741 ]
+3266 
+[ Bead 2 of residue 741 ]
+3265 3267 3270 
+[ Bead 1 of residue 742 ]
+3269 
+[ Bead 2 of residue 742 ]
+3270 3273 3274 3275 
+[ Bead 1 of residue 743 ]
+3274 
+[ Bead 1 of residue 744 ]
+3276 
+[ Bead 2 of residue 744 ]
+3275 3277 3280 
+[ Bead 1 of residue 745 ]
+3279 
+[ Bead 2 of residue 745 ]
+3280 3283 3284 3285 3286 
+[ Bead 1 of residue 746 ]
+3285 
+[ Bead 2 of residue 746 ]
+3286 3289 3290 3291 
+[ Bead 1 of residue 747 ]
+3290 
+[ Bead 2 of residue 747 ]
+3291 3294 3295 3296 3297 
+[ Bead 1 of residue 748 ]
+3296 
+[ Bead 1 of residue 749 ]
+3297 
+[ Bead 1 of residue 750 ]
+3298 
+[ Bead 2 of residue 750 ]
+3299 3302 3303 3304 
+[ Bead 1 of residue 751 ]
+3303 
+[ Bead 2 of residue 751 ]
+3304 3307 3308 
+[ Bead 3 of residue 751 ]
+3309 3310 
+[ Bead 1 of residue 752 ]
+3309 
+[ Bead 2 of residue 752 ]
+3310 3313 3314 
+[ Bead 3 of residue 752 ]
+3315 3316 
+[ Bead 1 of residue 753 ]
+3315 
+[ Bead 1 of residue 754 ]
+3316 
+[ Bead 1 of residue 755 ]
+3317 
+[ Bead 2 of residue 755 ]
+3318 3321 3322 3323 3324 
+[ Bead 1 of residue 756 ]
+3323 
+[ Bead 2 of residue 756 ]
+3324 3327 3328 3329 
+[ Bead 1 of residue 757 ]
+3328 
+[ Bead 2 of residue 757 ]
+3329 3332 3333 3334 
+[ Bead 1 of residue 758 ]
+3333 
+[ Bead 2 of residue 758 ]
+3334 3337 3338 
+[ Bead 3 of residue 758 ]
+3339 3340 
+[ Bead 1 of residue 759 ]
+3339 
+[ Bead 1 of residue 760 ]
+3340 
+[ Bead 2 of residue 760 ]
+3341 3344 3345 3346 
+[ Bead 1 of residue 761 ]
+3345 
+[ Bead 2 of residue 761 ]
+3346 3349 3350 3351 
+[ Bead 1 of residue 762 ]
+3350 
+[ Bead 2 of residue 762 ]
+3351 3354 3355 3356 3357 
+[ Bead 1 of residue 763 ]
+3356 
+[ Bead 2 of residue 763 ]
+3357 3360 
+[ Bead 3 of residue 763 ]
+3362 3364 
+[ Bead 4 of residue 763 ]
+3361 3363 
+[ Bead 1 of residue 764 ]
+3363 
+[ Bead 2 of residue 764 ]
+3364 3367 3368 3369 3370 
+[ Bead 1 of residue 765 ]
+3369 
+[ Bead 2 of residue 765 ]
+3370 3373 3374 3375 
+[ Bead 1 of residue 766 ]
+3374 
+[ Bead 2 of residue 766 ]
+3375 3378 3379 
+[ Bead 3 of residue 766 ]
+3380 3381 
+[ Bead 1 of residue 767 ]
+3380 
+[ Bead 2 of residue 767 ]
+3381 3384 3385 3386 
+[ Bead 1 of residue 768 ]
+3385 
+[ Bead 1 of residue 769 ]
+3386 
+[ Bead 2 of residue 769 ]
+3387 3390 3391 3392 
+[ Bead 1 of residue 770 ]
+3392 
+[ Bead 2 of residue 770 ]
+3391 3393 3396 
+[ Bead 1 of residue 771 ]
+3395 
+[ Bead 1 of residue 772 ]
+3396 
+[ Bead 2 of residue 772 ]
+3397 3400 3401 3402 
+[ Bead 1 of residue 773 ]
+3401 
+[ Bead 2 of residue 773 ]
+3402 3405 3406 
+[ Bead 3 of residue 773 ]
+3407 3408 3409 3410 
+[ Bead 1 of residue 774 ]
+3409 
+[ Bead 2 of residue 774 ]
+3410 3413 3414 3415 
+[ Bead 1 of residue 775 ]
+3414 
+[ Bead 2 of residue 775 ]
+3415 3418 3419 
+[ Bead 1 of residue 776 ]
+3418 
+[ Bead 2 of residue 776 ]
+3419 3422 3423 3424 
+[ Bead 1 of residue 777 ]
+3423 
+[ Bead 1 of residue 778 ]
+3424 
+[ Bead 1 of residue 779 ]
+3425 
+[ Bead 2 of residue 779 ]
+3426 3429 3430 
+[ Bead 3 of residue 779 ]
+3431 3433 
+[ Bead 4 of residue 779 ]
+3432 3434 
+[ Bead 1 of residue 780 ]
+3433 
+[ Bead 2 of residue 780 ]
+3434 3437 
+[ Bead 1 of residue 781 ]
+3436 
+[ Bead 2 of residue 781 ]
+3437 3440 3441 3442 3443 
+[ Bead 1 of residue 782 ]
+3442 
+[ Bead 1 of residue 783 ]
+3443 
+[ Bead 1 of residue 784 ]
+3444 
+[ Bead 1 of residue 785 ]
+3445 
+[ Bead 2 of residue 785 ]
+3446 3449 3450 3451 
+[ Bead 1 of residue 786 ]
+3450 
+[ Bead 2 of residue 786 ]
+3451 3454 
+[ Bead 1 of residue 787 ]
+3453 
+[ Bead 2 of residue 787 ]
+3454 3457 3458 3459 
+[ Bead 1 of residue 788 ]
+3458 
+[ Bead 2 of residue 788 ]
+3459 3462 3463 
+[ Bead 3 of residue 788 ]
+3464 3466 
+[ Bead 4 of residue 788 ]
+3465 3467 3468 
+[ Bead 1 of residue 789 ]
+3467 
+[ Bead 2 of residue 789 ]
+3468 3471 3472 
+[ Bead 1 of residue 790 ]
+3471 
+[ Bead 1 of residue 791 ]
+3472 
+[ Bead 2 of residue 791 ]
+3473 3476 3477 3478 
+[ Bead 1 of residue 792 ]
+3477 
+[ Bead 2 of residue 792 ]
+3478 3481 3482 
+[ Bead 1 of residue 793 ]
+3481 
+[ Bead 2 of residue 793 ]
+3482 3485 
+[ Bead 1 of residue 794 ]
+3485 
+[ Bead 2 of residue 794 ]
+3484 3486 3489 
+[ Bead 1 of residue 795 ]
+3488 
+[ Bead 2 of residue 795 ]
+3489 3492 
+[ Bead 3 of residue 795 ]
+3494 3496 
+[ Bead 4 of residue 795 ]
+3493 3495 
+[ Bead 1 of residue 796 ]
+3496 
+[ Bead 2 of residue 796 ]
+3495 3497 3500 
+[ Bead 1 of residue 797 ]
+3499 
+[ Bead 2 of residue 797 ]
+3500 3503 3504 3505 
+[ Bead 1 of residue 798 ]
+3504 
+[ Bead 1 of residue 799 ]
+3505 
+[ Bead 1 of residue 800 ]
+3506 
+[ Bead 2 of residue 800 ]
+3507 3510 3511 3512 
+[ Bead 1 of residue 801 ]
+3511 
+[ Bead 2 of residue 801 ]
+3512 3515 3516 
+[ Bead 1 of residue 802 ]
+3515 
+[ Bead 1 of residue 803 ]
+3516 
+[ Bead 2 of residue 803 ]
+3517 3520 3521 3522 
+[ Bead 1 of residue 804 ]
+3521 
+[ Bead 2 of residue 804 ]
+3522 3525 
+[ Bead 1 of residue 805 ]
+3524 
+[ Bead 2 of residue 805 ]
+3525 3528 
+[ Bead 1 of residue 806 ]
+3527 
+[ Bead 2 of residue 806 ]
+3528 3531 3533 
+[ Bead 3 of residue 806 ]
+3532 3534 3535 
+[ Bead 4 of residue 806 ]
+3536 3538 
+[ Bead 5 of residue 806 ]
+3537 3539 
+[ Bead 1 of residue 807 ]
+3538 
+[ Bead 2 of residue 807 ]
+3539 3542 3543 3544 
+[ Bead 1 of residue 808 ]
+3544 
+[ Bead 2 of residue 808 ]
+3543 3545 3548 
+[ Bead 1 of residue 809 ]
+3547 
+[ Bead 2 of residue 809 ]
+3548 3551 3552 3553 
+[ Bead 1 of residue 810 ]
+3552 
+[ Bead 2 of residue 810 ]
+3553 3556 
+[ Bead 3 of residue 810 ]
+3558 3560 
+[ Bead 4 of residue 810 ]
+3557 3559 
+[ Bead 1 of residue 811 ]
+3559 
+[ Bead 2 of residue 811 ]
+3560 3563 3564 
+[ Bead 3 of residue 811 ]
+3565 3566 3567 3568 
+[ Bead 1 of residue 812 ]
+3567 
+[ Bead 1 of residue 813 ]
+3568 
+[ Bead 2 of residue 813 ]
+3569 3572 3573 
+[ Bead 3 of residue 813 ]
+3574 3576 
+[ Bead 4 of residue 813 ]
+3575 3577 
+[ Bead 1 of residue 814 ]
+3577 
+[ Bead 2 of residue 814 ]
+3576 3578 3581 
+[ Bead 1 of residue 815 ]
+3580 
+[ Bead 2 of residue 815 ]
+3581 3584 3585 3586 3587 
+[ Bead 1 of residue 816 ]
+3586 
+[ Bead 1 of residue 817 ]
+3587 
+[ Bead 1 of residue 818 ]
+3588 
+[ Bead 2 of residue 818 ]
+3589 3592 3593 3594 
+[ Bead 1 of residue 819 ]
+3593 
+[ Bead 1 of residue 820 ]
+3594 
+[ Bead 2 of residue 820 ]
+3595 3598 
+[ Bead 1 of residue 821 ]
+3597 
+[ Bead 1 of residue 822 ]
+3598 
+[ Bead 2 of residue 822 ]
+3599 3602 3603 
+[ Bead 3 of residue 822 ]
+3604 3605 
+[ Bead 1 of residue 823 ]
+3604 
+[ Bead 2 of residue 823 ]
+3605 3608 3609 3610 
+[ Bead 1 of residue 824 ]
+3609 
+[ Bead 2 of residue 824 ]
+3610 3613 3614 3615 
+[ Bead 1 of residue 825 ]
+3614 
+[ Bead 1 of residue 826 ]
+3615 
+[ Bead 2 of residue 826 ]
+3616 3619 3620 3621 
+[ Bead 1 of residue 827 ]
+3620 
+[ Bead 2 of residue 827 ]
+3621 3624 3625 3626 
+[ Bead 1 of residue 828 ]
+3625 
+[ Bead 2 of residue 828 ]
+3626 3629 3630 3631 3632 
+[ Bead 1 of residue 829 ]
+3631 
+[ Bead 2 of residue 829 ]
+3632 3635 
+[ Bead 1 of residue 830 ]
+3634 
+[ Bead 2 of residue 830 ]
+3635 3638 
+[ Bead 3 of residue 830 ]
+3640 3642 
+[ Bead 4 of residue 830 ]
+3639 3641 
+[ Bead 1 of residue 831 ]
+3641 
+[ Bead 1 of residue 832 ]
+3642 
+[ Bead 2 of residue 832 ]
+3643 3646 3647 3648 3649 
+[ Bead 1 of residue 833 ]
+3648 
+[ Bead 2 of residue 833 ]
+3649 3652 3653 3654 
+[ Bead 1 of residue 834 ]
+3653 
+[ Bead 2 of residue 834 ]
+3654 3657 3658 3659 
+[ Bead 1 of residue 835 ]
+3659 
+[ Bead 2 of residue 835 ]
+3658 3660 3663 
+[ Bead 1 of residue 836 ]
+3662 
+[ Bead 2 of residue 836 ]
+3663 3666 3667 3668 
+[ Bead 1 of residue 837 ]
+3667 
+[ Bead 2 of residue 837 ]
+3668 3671 3672 
+[ Bead 1 of residue 838 ]
+3672 
+[ Bead 2 of residue 838 ]
+3671 3673 3676 
+[ Bead 1 of residue 839 ]
+3675 
+[ Bead 2 of residue 839 ]
+3676 3679 3680 
+[ Bead 1 of residue 840 ]
+3679 
+[ Bead 2 of residue 840 ]
+3680 3683 3684 
+[ Bead 3 of residue 840 ]
+3685 3686 3687 3688 
+[ Bead 1 of residue 841 ]
+3687 
+[ Bead 2 of residue 841 ]
+3688 3691 3692 
+[ Bead 3 of residue 841 ]
+3693 3695 
+[ Bead 4 of residue 841 ]
+3694 3696 
+[ Bead 1 of residue 842 ]
+3695 
+[ Bead 1 of residue 843 ]
+3696 
+[ Bead 1 of residue 844 ]
+3697 
+[ Bead 2 of residue 844 ]
+3698 3701 3702 3703 
+[ Bead 1 of residue 845 ]
+3702 
+[ Bead 2 of residue 845 ]
+3703 3706 3707 
+[ Bead 1 of residue 846 ]
+3706 
+[ Bead 1 of residue 847 ]
+3707 
+[ Bead 2 of residue 847 ]
+3708 3711 3712 3713 3714 
+[ Bead 1 of residue 848 ]
+3713 
+[ Bead 2 of residue 848 ]
+3714 3717 3718 
+[ Bead 3 of residue 848 ]
+3719 3720 
+[ Bead 1 of residue 849 ]
+3719 
+[ Bead 2 of residue 849 ]
+3720 3723 3724 3725 
+[ Bead 1 of residue 850 ]
+3724 
+[ Bead 2 of residue 850 ]
+3725 3728 3729 
+[ Bead 3 of residue 850 ]
+3730 3731 3732 3733 
+[ Bead 1 of residue 851 ]
+3732 
+[ Bead 2 of residue 851 ]
+3733 3736 
+[ Bead 1 of residue 852 ]
+3735 
+[ Bead 2 of residue 852 ]
+3736 3739 3740 
+[ Bead 1 of residue 853 ]
+3739 
+[ Bead 2 of residue 853 ]
+3740 3743 3744 
+[ Bead 1 of residue 854 ]
+3743 
+[ Bead 2 of residue 854 ]
+3744 3747 3748 
+[ Bead 1 of residue 855 ]
+3748 
+[ Bead 2 of residue 855 ]
+3747 3749 3752 
+[ Bead 1 of residue 856 ]
+3751 
+[ Bead 1 of residue 857 ]
+3752 
+[ Bead 2 of residue 857 ]
+3753 3756 3757 
+[ Bead 3 of residue 857 ]
+3758 3759 3760 3761 
+[ Bead 1 of residue 858 ]
+3760 
+[ Bead 2 of residue 858 ]
+3761 3764 3765 
+[ Bead 1 of residue 859 ]
+3764 
+[ Bead 2 of residue 859 ]
+3765 3768 3769 3770 3771 
+[ Bead 1 of residue 860 ]
+3770 
+[ Bead 2 of residue 860 ]
+3771 3774 3775 
+[ Bead 3 of residue 860 ]
+3776 3778 
+[ Bead 4 of residue 860 ]
+3777 3779 
+[ Bead 1 of residue 861 ]
+3778 
+[ Bead 2 of residue 861 ]
+3779 3782 3783 
+[ Bead 3 of residue 861 ]
+3784 3785 
+[ Bead 1 of residue 862 ]
+3784 
+[ Bead 2 of residue 862 ]
+3785 3788 3789 
+[ Bead 1 of residue 863 ]
+3788 
+[ Bead 2 of residue 863 ]
+3789 3792 3793 
+[ Bead 3 of residue 863 ]
+3794 3796 
+[ Bead 4 of residue 863 ]
+3795 3797 3798 
+[ Bead 1 of residue 864 ]
+3798 
+[ Bead 2 of residue 864 ]
+3797 3799 3802 
+[ Bead 1 of residue 865 ]
+3801 
+[ Bead 1 of residue 866 ]
+3802 
+[ Bead 2 of residue 866 ]
+3803 3806 3807 
+[ Bead 1 of residue 867 ]
+3806 
+[ Bead 2 of residue 867 ]
+3807 3810 3811 3812 
+[ Bead 1 of residue 868 ]
+3811 
+[ Bead 2 of residue 868 ]
+3812 3815 
+[ Bead 3 of residue 868 ]
+3817 3819 
+[ Bead 4 of residue 868 ]
+3816 3818 
+[ Bead 1 of residue 869 ]
+3818 
+[ Bead 2 of residue 869 ]
+3819 3822 
+[ Bead 1 of residue 870 ]
+3821 
+[ Bead 2 of residue 870 ]
+3822 3825 
+[ Bead 1 of residue 871 ]
+3824 
+[ Bead 2 of residue 871 ]
+3825 3828 
+[ Bead 1 of residue 872 ]
+3828 
+[ Bead 2 of residue 872 ]
+3827 3829 3832 
+[ Bead 1 of residue 873 ]
+3831 
+[ Bead 2 of residue 873 ]
+3832 3835 3836 3837 3838 
+[ Bead 1 of residue 874 ]
+3837 
+[ Bead 2 of residue 874 ]
+3838 3841 3842 3843 3844 
+[ Bead 1 of residue 875 ]
+3843 
+[ Bead 2 of residue 875 ]
+3844 3847 3848 3849 
+[ Bead 1 of residue 876 ]
+3848 
+[ Bead 1 of residue 877 ]
+3849 
+[ Bead 1 of residue 878 ]
+3850 
+[ Bead 2 of residue 878 ]
+3851 3854 3855 
+[ Bead 1 of residue 879 ]
+3854 
+[ Bead 2 of residue 879 ]
+3855 3858 3859 
+[ Bead 3 of residue 879 ]
+3860 3861 
+[ Bead 1 of residue 880 ]
+3860 
+[ Bead 2 of residue 880 ]
+3861 3864 3865 3866 3867 
+[ Bead 1 of residue 881 ]
+3866 
+[ Bead 2 of residue 881 ]
+3867 3870 3871 
+[ Bead 3 of residue 881 ]
+3872 3874 
+[ Bead 4 of residue 881 ]
+3873 3875 
+[ Bead 1 of residue 882 ]
+3874 
+[ Bead 2 of residue 882 ]
+3875 3878 3879 3880 
+[ Bead 1 of residue 883 ]
+3879 
+[ Bead 2 of residue 883 ]
+3880 3883 3884 3885 3886 
+[ Bead 1 of residue 884 ]
+3885 
+[ Bead 2 of residue 884 ]
+3886 3889 3890 
+[ Bead 3 of residue 884 ]
+3891 3892 
+[ Bead 1 of residue 885 ]
+3891 
+[ Bead 2 of residue 885 ]
+3892 3895 3896 3897 
+[ Bead 1 of residue 886 ]
+3896 
+[ Bead 2 of residue 886 ]
+3897 3900 3901 3902 
+[ Bead 1 of residue 887 ]
+3902 
+[ Bead 2 of residue 887 ]
+3901 3903 3906 
+[ Bead 1 of residue 888 ]
+3906 
+[ Bead 2 of residue 888 ]
+3905 3907 3910 
+[ Bead 1 of residue 889 ]
+3909 
+[ Bead 2 of residue 889 ]
+3910 3913 3914 

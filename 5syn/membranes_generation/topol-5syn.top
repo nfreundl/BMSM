@@ -1,0 +1,13 @@
+#include "martini.itp"
+
+#define RUBBER_BANDS
+
+#include "Protein_A.itp"
+
+[ system ]
+; name
+Martini system from 5syn-completed.pdb
+
+[ molecules ]
+; name        number
+Protein_A 	 1

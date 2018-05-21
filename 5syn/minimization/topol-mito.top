@@ -1,0 +1,19 @@
+#include "martini.itp"
+#include "Protein_A.itp"
+#include "POPC.itp"
+#include "POPE.itp"
+#include "CDL2.itp"
+[ system ]
+; name
+Protein in INSANE! Membrane UpperLeaflet>POPC:POPE:CDL2=40.0:34.0:18.0 LowerLeaflet>POPC:POPE:CDL2=40.0:34.0:18.0
+
+[ molecules ]
+; name  number
+Protein_A        1
+POPC           125
+POPE           106
+CDL2            56
+POPC           125
+POPE           106
+CDL2            56
+PW           18857
